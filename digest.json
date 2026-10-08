@@ -1,0 +1,237 @@
+{
+  "generated": "2026-10-08",
+  "meta": {
+    "feed": "sofistock",
+    "title": "SoFi Stock Digest",
+    "tagline": "What r/sofistock said, run by run",
+    "about": "Each digest is a snapshot of what r/sofistock was discussing when it ran, taken from Reddit's \"hot\" ranking, which has no time window. Everything is what Reddit users claim unless a line says it was checked against a primary source such as an SEC filing or SoFi's investor relations site. Valuation figures and price targets are quoted as posted, never computed here. Nothing here is financial advice. Events and claims that play out over time are tracked in the Tracker tab.",
+    "durable_label": "Tracker",
+    "durable_heading": "Claims tracker",
+    "topics": {
+      "news": "Company news",
+      "valuation": "Valuation",
+      "dd": "DD",
+      "sentiment": "Sentiment",
+      "unverified": "Unverified claims",
+      "other": "Other"
+    }
+  },
+  "digests": [
+    {
+      "date": "2026-10-08",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>The sub is waiting on Q3 results, due 27 October, and is frustrated that the stock keeps falling while the wider market rises. Most of the explanation offered is interest rates. Hot is mostly valuation charts from one prolific poster and daily-chat threads. The new company news is a crypto-linked card deal in Mexico, and the best thread is an institutional holder's emailed answer about what the market is not pricing in.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>SoFi Tech Solutions will run the card program behind a crypto-linked Mastercard from Mexican fintech Orbi.</strong>",
+              "html": "<p><strong>SoFi Tech Solutions will run the card program behind a crypto-linked Mastercard from Mexican fintech Orbi.</strong> Per the release, SoFi provides &quot;the BIN sponsorship and financial technology infrastructure behind the Orbi card program, including issuing, transaction authorization, processing and compliance capabilities.&quot; Orbi is described as its first crypto-focused card client in Mexico, and the release ties the deal to SoFi's SoFiUSD stablecoin. No launch date is given. In <a href=\"https://www.reddit.com/r/sofistock/comments/1x0p6mv/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, members note the stock fell anyway. The most-upvoted reply says it is exactly the kind of non-lending revenue that would make SoFi less sensitive to rate hikes.</p>",
+              "text": "SoFi Tech Solutions will run the card program behind a crypto-linked Mastercard from Mexican fintech Orbi. Per the release, SoFi provides \"the BIN sponsorship and financial technology infrastructure behind the Orbi card program, including issuing, transaction authorization, processing and compliance capabilities.\" Orbi is described as its first crypto-focused card client in Mexico, and the release ties the deal to SoFi's SoFiUSD stablecoin. No launch date is given. In the thread , members note the stock fell anyway. The most-upvoted reply says it is exactly the kind of non-lending revenue that would make SoFi less sensitive to rate hikes. Verified against the 8 October press release (Business Wire syndication); nothing on volumes or economics was disclosed.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.financialcontent.com/article/bizwire-2026-10-8-sofi-tech-solutions-orbi-and-mastercard-partner-to-launch-crypto-linked-card-in-mexico\" target=\"_blank\" rel=\"noopener noreferrer\">the 8 October press release</a> (Business Wire syndication); nothing on volumes or economics was disclosed.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Q3 2026 results come out at about 7 a.m. Eastern on Tuesday 27 October, with the call at 8 a.m.</strong>",
+              "html": "<p><strong>Q3 2026 results come out at about 7 a.m. Eastern on Tuesday 27 October, with the call at 8 a.m.</strong> In <a href=\"https://www.reddit.com/r/sofistock/comments/1wtijop/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, the top comment asks CEO Anthony Noto to &quot;stop low balling&quot; guidance and show tech-platform revenue growth. A reply says he has argued that reliable guidance builds more confidence, given this year's swing in rate assumptions. Several members say the guidance, not the quarter, is what they are worried about.</p>",
+              "text": "Q3 2026 results come out at about 7 a.m. Eastern on Tuesday 27 October, with the call at 8 a.m. In the thread , the top comment asks CEO Anthony Noto to \"stop low balling\" guidance and show tech-platform revenue growth. A reply says he has argued that reliable guidance builds more confidence, given this year's swing in rate assumptions. Several members say the guidance, not the quarter, is what they are worried about. Verified against SoFi's 29 September announcement .",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://investors.sofi.com/news/news-details/2026/SoFi-Schedules-Conference-Call-to-Discuss-Q3-2026-Results/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's 29 September announcement</a>.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>SoFi Bank ranks 43rd among US commercial banks by consolidated assets, at $56,821 million as of 30 June 2026.</strong>",
+              "html": "<p><strong>SoFi Bank ranks 43rd among US commercial banks by consolidated assets, at $56,821 million as of 30 June 2026.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1ww5gs5/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> (215 points) frames it as going &quot;from not a bank to 449th to 43rd in 4.5 years&quot;. <a href=\"https://www.reddit.com/r/sofistock/comments/1wvzt7k/\" target=\"_blank\" rel=\"noopener noreferrer\">A companion thread</a> lists the quarterly rank since the 2022 charter, and calls Q2 2026 the biggest quarter of asset growth by &quot;a pretty good margin&quot;. The poster adds that the banks ahead are 126 years old on median, and that SoFi ranks &quot;around 30th&quot; by market cap.</p>",
+              "text": "SoFi Bank ranks 43rd among US commercial banks by consolidated assets, at $56,821 million as of 30 June 2026. The post (215 points) frames it as going \"from not a bank to 449th to 43rd in 4.5 years\". A companion thread lists the quarterly rank since the 2022 charter, and calls Q2 2026 the biggest quarter of asset growth by \"a pretty good margin\". The poster adds that the banks ahead are 126 years old on median, and that SoFi ranks \"around 30th\" by market cap. Verified for the rank and assets, against the Federal Reserve's large commercial banks release . The earlier quarterly ranks, bank ages and market-cap rank are Single source and were not checked.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the rank and assets, against <a href=\"https://www.federalreserve.gov/releases/lbr/20261002/default.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Federal Reserve's large commercial banks release</a>. The earlier quarterly ranks, bank ages and market-cap rank are Single source and were not checked.</p>",
+              "updated": null
+            }
+          ]
+        },
+        {
+          "heading": "Fundamentals and valuation",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;SoFi is the cheapest it's ever been…again.&quot;</strong>",
+              "html": "<p><strong>&quot;SoFi is the cheapest it's ever been…again.&quot;</strong> It is a chart post at 142 points; the chart itself was not readable. The comments argue over why. The usual answer is &quot;interest rates go up — bank stocks go down.&quot; One member pushes back that rates were higher when the stock traded well above today's level, and that the company was growing more slowly then. <a href=\"https://www.reddit.com/r/sofistock/comments/1wze8ta/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"SoFi is the cheapest it's ever been…again.\" It is a chart post at 142 points; the chart itself was not readable. The comments argue over why. The usual answer is \"interest rates go up — bank stocks go down.\" One member pushes back that rates were higher when the stock traded well above today's level, and that the company was growing more slowly then. Thread Single source · the valuation measure the chart uses is not stated in the thread.",
+              "status": "single-source",
+              "status_html": "<p>Single source · the valuation measure the chart uses is not stated in the thread.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Is tangible book value the right yardstick?</strong>",
+              "html": "<p><strong>Is tangible book value the right yardstick?</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1wy0gne/\" target=\"_blank\" rel=\"noopener noreferrer\">A chart comparing SoFi's and Robinhood's TBV</a> set off the sub's standing argument. One side says SoFi trades on TBV &quot;because it's just a bank&quot; and Robinhood should not be valued that way at all. The other says anyone who calls it &quot;just a bank&quot; hasn't listened to an earnings call. A third view is that the market will eventually stop trading SoFi as a rate play.</p>",
+              "text": "Is tangible book value the right yardstick? A chart comparing SoFi's and Robinhood's TBV set off the sub's standing argument. One side says SoFi trades on TBV \"because it's just a bank\" and Robinhood should not be valued that way at all. The other says anyone who calls it \"just a bank\" hasn't listened to an earnings call. A third view is that the market will eventually stop trading SoFi as a rate play. Single source · a debate, not a finding.",
+              "status": "single-source",
+              "status_html": "<p>Single source · a debate, not a finding.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>A model of the top 43 banks' asset growth rates</strong>",
+              "html": "<p><strong>A model of the top 43 banks' asset growth rates</strong> (<a href=\"https://www.reddit.com/r/sofistock/comments/1wx7ehy/\" target=\"_blank\" rel=\"noopener noreferrer\">thread</a>) argues that growth, not the sector, should set the multiple. The sharpest reply, which its author flags as bait, asks why SoFi deserves Citizens' market cap when its assets will only reach Citizens' level around 2028.</p>",
+              "text": "A model of the top 43 banks' asset growth rates ( thread ) argues that growth, not the sector, should set the multiple. The sharpest reply, which its author flags as bait, asks why SoFi deserves Citizens' market cap when its assets will only reach Citizens' level around 2028. Single source.",
+              "status": "single-source",
+              "status_html": "<p>Single source.</p>",
+              "updated": null
+            }
+          ]
+        },
+        {
+          "heading": "Due diligence",
+          "category": "dd",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong><a href=\"https://www.reddit.com/r/sofistock/comments/1wtkyvs/\" target=\"_blank\" rel=\"noopener noreferrer\">Patient Capital Management's emailed answer on what SoFi's price leaves out</a>.</strong>",
+              "html": "<p><strong><a href=\"https://www.reddit.com/r/sofistock/comments/1wtkyvs/\" target=\"_blank\" rel=\"noopener noreferrer\">Patient Capital Management's emailed answer on what SoFi's price leaves out</a>.</strong> A member emailed institutional holders, and Patient Capital replied with permission to share. In the reply's words, &quot;today's valuation does not price in much, if any, value for the Tech Platform. That makes Galileo a free call option at this price&quot;. It names sustained fee growth as the evidence that would show the market is underestimating the company. The poster says the fund's 13Fs show it adding shares in Q1 and Q2 2026. Commenters condense the view to: re-rated &quot;as not-a-bank&quot; if non-lending revenue shows up. One long-time holder objects that management used to pitch Galileo as a growth driver and only reframed it after the &quot;Amazon of fintech&quot; narrative faded.</p>",
+              "text": "Patient Capital Management's emailed answer on what SoFi's price leaves out . A member emailed institutional holders, and Patient Capital replied with permission to share. In the reply's words, \"today's valuation does not price in much, if any, value for the Tech Platform. That makes Galileo a free call option at this price\". It names sustained fee growth as the evidence that would show the market is underestimating the company. The poster says the fund's 13Fs show it adding shares in Q1 and Q2 2026. Commenters condense the view to: re-rated \"as not-a-bank\" if non-lending revenue shows up. One long-time holder objects that management used to pitch Galileo as a growth driver and only reframed it after the \"Amazon of fintech\" narrative faded. Single source · the quote is as posted. The 13F holdings were not checked, and ARK Invest has only forwarded the question so far.",
+              "status": "single-source",
+              "status_html": "<p>Single source · the quote is as posted. The 13F holdings were not checked, and ARK Invest has only forwarded the question so far.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong><a href=\"https://www.reddit.com/r/sofistock/comments/1wv8c3x/\" target=\"_blank\" rel=\"noopener noreferrer\">A long-range earnings model</a></strong>",
+              "html": "<p><strong><a href=\"https://www.reddit.com/r/sofistock/comments/1wv8c3x/\" target=\"_blank\" rel=\"noopener noreferrer\">A long-range earnings model</a></strong> whose base case, as commenters quote it, is $2.90 EPS in 2030. The main objection is that the base case assumes two- to four-fold growth in several revenue streams within four years, which one commenter thinks is too high, especially for the tech platform. Another commenter says the financial-services contribution margin fell from 54% in Q3 2025 to 46% in Q1 and Q2 2026, and asks why the model uses a conservative 2026 figure. Not checked.</p>",
+              "text": "A long-range earnings model whose base case, as commenters quote it, is $2.90 EPS in 2030. The main objection is that the base case assumes two- to four-fold growth in several revenue streams within four years, which one commenter thinks is too high, especially for the tech platform. Another commenter says the financial-services contribution margin fell from 54% in Q3 2025 to 46% in Q1 and Q2 2026, and asks why the model uses a conservative 2026 figure. Not checked. Single source · one author's projection, not a forecast.",
+              "status": "single-source",
+              "status_html": "<p>Single source · one author's projection, not a forecast.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Noto's 2030 goal: 50 million members and 150 million products, about three per member.</strong>",
+              "html": "<p><strong>Noto's 2030 goal: 50 million members and 150 million products, about three per member.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1wwf448/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> argues the company is ahead of pace. Its author corrects their own chart: the goal was stated in May 2025, not May 2024. The company reported 15.8 million members at the end of Q2 2026. Commenters doubt the target can be reached without going international, and want &quot;a better plan for the tech platform growth&quot;.</p>",
+              "text": "Noto's 2030 goal: 50 million members and 150 million products, about three per member. The post argues the company is ahead of pace. Its author corrects their own chart: the goal was stated in May 2025, not May 2024. The company reported 15.8 million members at the end of Q2 2026. Commenters doubt the target can be reached without going international, and want \"a better plan for the tech platform growth\". Reported for the goal, from secondary coverage ; the original statement was not found. The member count is Verified against the Q2 2026 earnings release .",
+              "status": "reported",
+              "status_html": "<p>Reported for the goal, from <a href=\"https://finance.yahoo.com/news/sofis-ceo-believes-could-become-130100299.html\" target=\"_blank\" rel=\"noopener noreferrer\">secondary coverage</a>; the original statement was not found. The member count is <strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000050/a2026q2earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q2 2026 earnings release</a>.</p>",
+              "updated": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The mood is frustrated.",
+              "html": "<p>The mood is frustrated. The 8 October daily chat opens with &quot;Getting sick of this&quot;, and <a href=\"https://www.reddit.com/r/sofistock/comments/1wzb187/\" target=\"_blank\" rel=\"noopener noreferrer\">a thread asking whether to sell</a> gets mostly &quot;hold the course&quot; answers. The recurring explanations are rate sensitivity, past dilution, and comparison with Robinhood's run. Members defend the dilution as the cost of growing a bank this fast.</p>",
+              "text": "The mood is frustrated. The 8 October daily chat opens with \"Getting sick of this\", and a thread asking whether to sell gets mostly \"hold the course\" answers. The recurring explanations are rate sensitivity, past dilution, and comparison with Robinhood's run. Members defend the dilution as the cost of growing a bank this fast.",
+              "status": null,
+              "status_html": null,
+              "updated": null
+            },
+            {
+              "headline": "Many members describe adding shares on the dip.",
+              "html": "<p>Many members describe adding shares on the dip. Others lean toward selling covered calls into the usual pre-earnings rise in implied volatility.</p>",
+              "text": "Many members describe adding shares on the dip. Others lean toward selling covered calls into the usual pre-earnings rise in implied volatility.",
+              "status": null,
+              "status_html": null,
+              "updated": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;Shorts have to maintain it below 18. Once whales accumulate 70% the stock will take off.&quot;</strong>",
+              "html": "<p><strong>&quot;Shorts have to maintain it below 18. Once whales accumulate 70% the stock will take off.&quot;</strong> It appears in <a href=\"https://www.reddit.com/r/sofistock/comments/1ww5gs5/\" target=\"_blank\" rel=\"noopener noreferrer\">the bank-ranking thread</a> with no source attached, and nobody in the thread supports it.</p>",
+              "text": "\"Shorts have to maintain it below 18. Once whales accumulate 70% the stock will take off.\" It appears in the bank-ranking thread with no source attached, and nobody in the thread supports it. Unconfirmed · no data was cited, and none was found in the thread.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · no data was cited, and none was found in the thread.</p>",
+              "updated": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "theme": "Earnings and guidance",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>Q3 2026 results: about 7 a.m. Eastern on Tuesday 27 October 2026, with the call at 8 a.m.</strong>",
+          "html": "<p><strong>Q3 2026 results: about 7 a.m. Eastern on Tuesday 27 October 2026, with the call at 8 a.m.</strong> After the release, check the guidance entry below against it.</p>",
+          "text": "Q3 2026 results: about 7 a.m. Eastern on Tuesday 27 October 2026, with the call at 8 a.m. After the release, check the guidance entry below against it. Verified against SoFi's announcement · 2026-10-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://investors.sofi.com/news/news-details/2026/SoFi-Schedules-Conference-Call-to-Discuss-Q3-2026-Results/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's announcement</a> · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        },
+        {
+          "headline": "<strong>Full-year 2026 guidance, as given with Q2 results:</strong> adjusted net revenue of &quot;approximately $4.75 billion to $4.85 billion&quot;, adjusted net income of &quot;approximately $825 million&quot;, adjusted EPS…",
+          "html": "<p><strong>Full-year 2026 guidance, as given with Q2 results:</strong> adjusted net revenue of &quot;approximately $4.75 billion to $4.85 billion&quot;, adjusted net income of &quot;approximately $825 million&quot;, adjusted EPS of &quot;approximately 60 cents per share&quot;, and member growth of &quot;at least 30% year-over-year&quot;. The sub's running question is whether Q3 raises or only reiterates it.</p>",
+          "text": "Full-year 2026 guidance, as given with Q2 results: adjusted net revenue of \"approximately $4.75 billion to $4.85 billion\", adjusted net income of \"approximately $825 million\", adjusted EPS of \"approximately 60 cents per share\", and member growth of \"at least 30% year-over-year\". The sub's running question is whether Q3 raises or only reiterates it. Verified against the Q2 2026 earnings release · 2026-10-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000050/a2026q2earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q2 2026 earnings release</a> · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "theme": "Management goals",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>Noto's goal: 50 million members and 150 million products by 2030, about three products per member.</strong>",
+          "html": "<p><strong>Noto's goal: 50 million members and 150 million products by 2030, about three products per member.</strong> It was stated in May 2025. Members were 15.8 million at the end of Q2 2026. The sub argues the company is ahead of pace.</p>",
+          "text": "Noto's goal: 50 million members and 150 million products by 2030, about three products per member. It was stated in May 2025. Members were 15.8 million at the end of Q2 2026. The sub argues the company is ahead of pace. Reported for the goal, from secondary coverage ; the member count is Verified against the Q2 release · 2026-10-08",
+          "status": "reported",
+          "status_html": "<p>Reported for the goal, from <a href=\"https://finance.yahoo.com/news/sofis-ceo-believes-could-become-130100299.html\" target=\"_blank\" rel=\"noopener noreferrer\">secondary coverage</a>; the member count is <strong>Verified</strong> against the Q2 release · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "theme": "Products and partnerships",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>SoFi Tech Solutions provides the card program behind Orbi's crypto-linked Mastercard in Mexico, tied to SoFiUSD.</strong>",
+          "html": "<p><strong>SoFi Tech Solutions provides the card program behind Orbi's crypto-linked Mastercard in Mexico, tied to SoFiUSD.</strong> Orbi is described as its first crypto-focused card client there. It was announced 8 October 2026, with no launch date.</p>",
+          "text": "SoFi Tech Solutions provides the card program behind Orbi's crypto-linked Mastercard in Mexico, tied to SoFiUSD. Orbi is described as its first crypto-focused card client there. It was announced 8 October 2026, with no launch date. Verified against the press release · 2026-10-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.financialcontent.com/article/bizwire-2026-10-8-sofi-tech-solutions-orbi-and-mastercard-partner-to-launch-crypto-linked-card-in-mexico\" target=\"_blank\" rel=\"noopener noreferrer\">the press release</a> · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        },
+        {
+          "headline": "<strong>SoFi Bank ranks 43rd among US commercial banks by consolidated assets ($56,821 million, as of 30 June 2026).</strong>",
+          "html": "<p><strong>SoFi Bank ranks 43rd among US commercial banks by consolidated assets ($56,821 million, as of 30 June 2026).</strong> The Fed updates the list quarterly; the sub tracks the rank each release.</p>",
+          "text": "SoFi Bank ranks 43rd among US commercial banks by consolidated assets ($56,821 million, as of 30 June 2026). The Fed updates the list quarterly; the sub tracks the rank each release. Verified against the Federal Reserve release · 2026-10-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.federalreserve.gov/releases/lbr/20261002/default.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Federal Reserve release</a> · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "theme": "Recurring community claims",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>&quot;SoFi is just a bank&quot; versus &quot;SoFi is a fintech&quot;.</strong>",
+          "html": "<p><strong>&quot;SoFi is just a bank&quot; versus &quot;SoFi is a fintech&quot;.</strong> This framing sits under most valuation threads. One side says rate moves drive the stock because most revenue is lending. The other says the tech platform and fee businesses are being given no value at all.</p>",
+          "text": "\"SoFi is just a bank\" versus \"SoFi is a fintech\". This framing sits under most valuation threads. One side says rate moves drive the stock because most revenue is lending. The other says the tech platform and fee businesses are being given no value at all. Single source each time; a debate, not a finding · 2026-10-08",
+          "status": "single-source",
+          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        }
+      ]
+    }
+  ]
+}
