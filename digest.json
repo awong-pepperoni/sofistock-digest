@@ -13,6 +13,7 @@
       "dd": "DD",
       "sentiment": "Sentiment",
       "unverified": "Unverified claims",
+      "coverage": "Coverage",
       "other": "Other"
     }
   },
@@ -149,6 +150,37 @@
               "text": "\"Shorts have to maintain it below 18. Once whales accumulate 70% the stock will take off.\" It appears in the bank-ranking thread with no source attached, and nobody in the thread supports it. Unconfirmed · no data was cited, and none was found in the thread.",
               "status": "unconfirmed",
               "status_html": "<p><strong>Unconfirmed</strong> · no data was cited, and none was found in the thread.</p>",
+              "updated": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock.",
+              "html": "<p><strong>Read:</strong> sofistock. <strong>Sources checked:</strong> SoFi's SEC filings since 20 September. SoFi's investor news page refused automated requests; web search found only the two releases covered above.</p>",
+              "text": "Read: sofistock. Sources checked: SoFi's SEC filings since 20 September. SoFi's investor news page refused automated requests; web search found only the two releases covered above.",
+              "status": null,
+              "status_html": null,
+              "updated": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Two executives sold shares on 21 September.</strong> Chief Technology Officer Jeremy Rishel sold 18,624 at $17.50; his Form 144 describes them as restricted stock vesting (<a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000193420026000011/xslF345X06/wk-form4_1790208644.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Form 4</a>). EVP Kelli Keough sold 10,203 at $16.9862 (<a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000203245826000028/xslF345X06/wk-form4_1790208724.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Form 4</a>).</li>\n</ul>",
+              "text": "Announced, not discussed: Two executives sold shares on 21 September. Chief Technology Officer Jeremy Rishel sold 18,624 at $17.50; his Form 144 describes them as restricted stock vesting ( Form 4 ). EVP Kelli Keough sold 10,203 at $16.9862 ( Form 4 ). Verified against the filings",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the filings</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged nothing.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged nothing.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged nothing.",
+              "status": null,
+              "status_html": null,
               "updated": null
             }
           ]
