@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09",
+  "generated": "2026-10-11",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,184 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-11",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>A thin run. No company news since the 8 October Orbi card release, no new SEC filing, and most of hot is the same frustration about the share price with rates as the explanation. What is new is that the Q3 print now has a number attached to it: the sub is arguing about a 17-cent consensus EPS rather than about guidance in the abstract. The other organic posts are image-only revenue charts and a Robinhood comparison.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The sub's pre-earnings argument has moved from guidance to whether the quarter clears a 17-cent EPS estimate.</strong>",
+              "html": "<p><strong>The sub's pre-earnings argument has moved from guidance to whether the quarter clears a 17-cent EPS estimate.</strong> A thread asking directly whether members are nervous about the estimate drew a near-unanimous answer: the company sandbags, so the estimate is the wrong thing to worry about.</p>\n<ul>\n<li><strong>Why it matters:</strong> this is the first run where the sub names a specific bar for 27 October. The most-upvoted replies in <a href=\"https://www.reddit.com/r/sofistock/comments/1x13txl/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a> say SoFi has met or beaten expectations for four years running and that the forward guide, not the quarter, is what moves the stock. One member reads the pattern the other way: &quot;<em>Beating</em> EPS and a conservative guidance will cause it tank too.&quot;</li>\n<li><strong>What to watch:</strong> results at about 7 a.m. Eastern on Tuesday 27 October, with the call at 8 a.m.; whether full-year adjusted EPS guidance of &quot;approximately 60 cents per share&quot; is raised or reiterated; and what the company says about tech-platform growth, which several members single out as the line they will read first.</li>\n<li><strong>Numbers:</strong> the 17-cent Q3 estimate is as posted on the sub and was not independently checked — it is a sell-side consensus, which has no primary source. Full-year guidance of approximately $4.75–4.85 billion adjusted net revenue, approximately $825 million adjusted net income and approximately 60 cents adjusted EPS is as reported in the Q2 release. A member's claim that Q3 carries a tax hit &quot;worth 0.05 EPS&quot; from expiring 2026 stock-comp packaging is as posted and was not checked.</li>\n<li><strong>Caveats:</strong> the sub's reasons for confidence are its own reading of management's record, not a company statement about Q3. Another member's claim that &quot;hikes were in the guide&quot; could not be confirmed: the Q2 2026 earnings release states no interest-rate assumption behind the guidance.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000050/a2026q2earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's Q2 2026 earnings release</a></li>\n</ul>",
+              "text": "The sub's pre-earnings argument has moved from guidance to whether the quarter clears a 17-cent EPS estimate. A thread asking directly whether members are nervous about the estimate drew a near-unanimous answer: the company sandbags, so the estimate is the wrong thing to worry about. Why it matters: this is the first run where the sub names a specific bar for 27 October. The most-upvoted replies in the thread say SoFi has met or beaten expectations for four years running and that the forward guide, not the quarter, is what moves the stock. One member reads the pattern the other way: \" Beating EPS and a conservative guidance will cause it tank too.\" What to watch: results at about 7 a.m. Eastern on Tuesday 27 October, with the call at 8 a.m.; whether full-year adjusted EPS guidance of \"approximately 60 cents per share\" is raised or reiterated; and what the company says about tech-platform growth, which several members single out as the line they will read first. Numbers: the 17-cent Q3 estimate is as posted on the sub and was not independently checked — it is a sell-side consensus, which has no primary source. Full-year guidance of approximately $4.75–4.85 billion adjusted net revenue, approximately $825 million adjusted net income and approximately 60 cents adjusted EPS is as reported in the Q2 release. A member's claim that Q3 carries a tax hit \"worth 0.05 EPS\" from expiring 2026 stock-comp packaging is as posted and was not checked. Caveats: the sub's reasons for confidence are its own reading of management's record, not a company statement about Q3. Another member's claim that \"hikes were in the guide\" could not be confirmed: the Q2 2026 earnings release states no interest-rate assumption behind the guidance. Read next: SoFi's Q2 2026 earnings release Verified for the date and the guidance figures; the consensus estimate is Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the date and the guidance figures; the consensus estimate is Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Fundamentals and valuation",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Two Sankey diagrams of SoFi's revenue are among the run's highest-scoring posts, but neither thread says what the charts show.</strong>",
+              "html": "<p><strong>Two Sankey diagrams of SoFi's revenue are among the run's highest-scoring posts, but neither thread says what the charts show.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1wxyxjy/\" target=\"_blank\" rel=\"noopener noreferrer\">SOFI Sankey</a> and <a href=\"https://www.reddit.com/r/sofistock/comments/1x2mdom/\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi Sankey over time</a> are image posts from the same poster, who describes the second as being drawn &quot;[p]roportional to revenue total in lieu of % growth&quot;. The only substantive exchange is about when SoFi became profitable: one commenter asks whether it is only now, the poster replies &quot;going on 17 straight quarters now&quot;, and another says &quot;Q4 of 2023&quot;. A commenter asks for the chart to be redrawn after the Q3 report.</p>",
+              "text": "Two Sankey diagrams of SoFi's revenue are among the run's highest-scoring posts, but neither thread says what the charts show. SOFI Sankey and SoFi Sankey over time are image posts from the same poster, who describes the second as being drawn \"[p]roportional to revenue total in lieu of % growth\". The only substantive exchange is about when SoFi became profitable: one commenter asks whether it is only now, the poster replies \"going on 17 straight quarters now\", and another says \"Q4 of 2023\". A commenter asks for the chart to be redrawn after the Q3 report. Single source · the charts were not readable and no underlying figures were posted in either thread.",
+              "status": "single-source",
+              "status_html": "<p>Single source · the charts were not readable and no underlying figures were posted in either thread.</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The sub's Robinhood comparison settled on the two companies approaching the same place from opposite ends.</strong>",
+              "html": "<p><strong>The sub's Robinhood comparison settled on the two companies approaching the same place from opposite ends.</strong> In <a href=\"https://www.reddit.com/r/sofistock/comments/1x1r32a/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, the framing that drew agreement is that Robinhood is &quot;effectively an exchange trying to become a bank&quot; while &quot;SoFi is a bank trying to become an exchange&quot;, with the commenter adding that the first is the easier path. Another argues SoFi's bank charter gives it more reliable revenue streams while Robinhood's free cash flow rests on payment for order flow and fees, and that SoFi's &quot;heavy lending book becomes a headwind in a macro environment that is risk-off for financials&quot;. A claim that Robinhood runs 240% debt to equity is posted without a source.</p>",
+              "text": "The sub's Robinhood comparison settled on the two companies approaching the same place from opposite ends. In the thread , the framing that drew agreement is that Robinhood is \"effectively an exchange trying to become a bank\" while \"SoFi is a bank trying to become an exchange\", with the commenter adding that the first is the easier path. Another argues SoFi's bank charter gives it more reliable revenue streams while Robinhood's free cash flow rests on payment for order flow and fees, and that SoFi's \"heavy lending book becomes a headwind in a macro environment that is risk-off for financials\". A claim that Robinhood runs 240% debt to equity is posted without a source. Single source · a comparison between members, with no figures checked.",
+              "status": "single-source",
+              "status_html": "<p>Single source · a comparison between members, with no figures checked.</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The run&#x27;s biggest organic thread is a 139-point post asking what is wrong with SOFI with 202 comments, and the dominant answer is rates rather than the company.",
+              "html": "<p>The run's biggest organic thread is <a href=\"https://www.reddit.com/r/sofistock/comments/1x0sysn/\" target=\"_blank\" rel=\"noopener noreferrer\">a 139-point post asking what is wrong with SOFI</a> with 202 comments, and the dominant answer is rates rather than the company. One commenter posts a 60-day comparison — SoFi down 18.25%, Bank of America down 17.25%, PNC down 13.65%, and JPM, WFC and GS down between 10% and 15% — and concludes &quot;It's the RATES&quot;. Those percentages are as posted and were not checked. Others say the same thing in one line: a lender's volume falls when rates rise. A separate thread asks how the big banks' earnings over the next fortnight will read across, and the top reply is that &quot;sofi will get treated as a bank so long as the sentiment is bad for banks.&quot;</p>",
+              "text": "The run's biggest organic thread is a 139-point post asking what is wrong with SOFI with 202 comments, and the dominant answer is rates rather than the company. One commenter posts a 60-day comparison — SoFi down 18.25%, Bank of America down 17.25%, PNC down 13.65%, and JPM, WFC and GS down between 10% and 15% — and concludes \"It's the RATES\". Those percentages are as posted and were not checked. Others say the same thing in one line: a lender's volume falls when rates rise. A separate thread asks how the big banks' earnings over the next fortnight will read across, and the top reply is that \"sofi will get treated as a bank so long as the sentiment is bad for banks.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The same thread carries the run&#x27;s one notable exit.",
+              "html": "<p>The same thread carries the run's one notable exit. A member says they sold a five-year position for a 60% gain and rotated into AVGO, describing the stock as &quot;dead money&quot; because &quot;nothing matters&quot;: macro good or bad, earnings good or bad, the stock falls either way. Replies are mostly the sub's usual counter — long-term holders like this price.</p>",
+              "text": "The same thread carries the run's one notable exit. A member says they sold a five-year position for a 60% gain and rotated into AVGO, describing the stock as \"dead money\" because \"nothing matters\": macro good or bad, earnings good or bad, the stock falls either way. Replies are mostly the sub's usual counter — long-term holders like this price.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A thread asking what actually makes SoFi a fintech is the sub&#x27;s &quot;just a bank&quot; argument in miniature.",
+              "html": "<p><a href=\"https://www.reddit.com/r/sofistock/comments/1x2qpv7/\" target=\"_blank\" rel=\"noopener noreferrer\">A thread asking what actually makes SoFi a fintech</a> is the sub's &quot;just a bank&quot; argument in miniature. The answers that stick are Galileo, named as powering banking and payments for other companies, and SoFiUSD settlement on Mastercard's network. One member offers a test rather than a label: a fintech makes more than half its revenue from non-lending sources.</p>",
+              "text": "A thread asking what actually makes SoFi a fintech is the sub's \"just a bank\" argument in miniature. The answers that stick are Galileo, named as powering banking and payments for other companies, and SoFiUSD settlement on Mastercard's network. One member offers a test rather than a label: a fintech makes more than half its revenue from non-lending sources.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The weekend chat is a price ladder counting down to earnings, posted daily by the same member.",
+              "html": "<p>The weekend chat is a price ladder counting down to earnings, posted daily by the same member. Treat it as mood, not information.</p>",
+              "text": "The weekend chat is a price ladder counting down to earnings, posted daily by the same member. Treat it as mood, not information.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;Going on 17 straight quarters now&quot; of profitability.</strong>",
+              "html": "<p><strong>&quot;Going on 17 straight quarters now&quot; of profitability.</strong> The claim appears in <a href=\"https://www.reddit.com/r/sofistock/comments/1x2mdom/\" target=\"_blank\" rel=\"noopener noreferrer\">the Sankey thread</a> and contradicts the reply naming Q4 2023 as the first profitable quarter, which would be eleven quarters through Q2 2026. The Q2 2026 earnings release claims a streak of a different kind — &quot;SoFi's 19th consecutive quarter achieving the Rule of 40, with a score of 70&quot; — and makes no consecutive-profitability claim.</p>",
+              "text": "\"Going on 17 straight quarters now\" of profitability. The claim appears in the Sankey thread and contradicts the reply naming Q4 2023 as the first profitable quarter, which would be eleven quarters through Q2 2026. The Q2 2026 earnings release claims a streak of a different kind — \"SoFi's 19th consecutive quarter achieving the Rule of 40, with a score of 70\" — and makes no consecutive-profitability claim. Unconfirmed · checked the Q2 2026 earnings release; no profitability streak is stated there, and the two numbers in the thread cannot both be right.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · checked the Q2 2026 earnings release; no profitability streak is stated there, and the two numbers in the thread cannot both be right.</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock.",
+              "html": "<p><strong>Read:</strong> sofistock. <strong>Sources checked:</strong> SoFi's SEC EDGAR filing index, which shows nothing filed since 23 September. SoFi's investor news page again refused automated requests and returned an empty template; a press-release index and web search were used instead and show nothing issued after the 8 October Orbi release.</p>",
+              "text": "Read: sofistock. Sources checked: SoFi's SEC EDGAR filing index, which shows nothing filed since 23 September. SoFi's investor news page again refused automated requests and returned an empty template; a press-release index and web search were used instead and show nothing issued after the 8 October Orbi release.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. The most recent announcement is the 8 October Orbi card deal, covered in the 2026-10-08 entry.</p>",
+              "text": "Announced, not discussed: none. The most recent announcement is the 8 October Orbi card deal, covered in the 2026-10-08 entry. Verified against SEC EDGAR and a press-release index for September and October 2026",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001818874&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">SEC EDGAR</a> and a press-release index for September and October 2026</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none. The scan's one flagged term, &quot;sankey&quot;, is covered under Fundamentals and valuation.</p>",
+              "text": "Flagged terms set aside: none. The scan's one flagged term, \"sankey\", is covered under Fundamentals and valuation.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "title": "SoFi stock digest",
@@ -291,6 +469,19 @@
           "due_label": "results and call"
         },
         {
+          "headline": "<strong>A 17-cent consensus EPS estimate for Q3 2026, as posted on the sub.</strong>",
+          "html": "<p><strong>A 17-cent consensus EPS estimate for Q3 2026, as posted on the sub.</strong> The sub's position is that the estimate is not the risk because the company guides conservatively; the forward guide is. Check the figure against the release.</p>",
+          "text": "A 17-cent consensus EPS estimate for Q3 2026, as posted on the sub. The sub's position is that the estimate is not the risk because the company guides conservatively; the forward guide is. Check the figure against the release. Single source · as posted in the thread ; a sell-side consensus has no primary source · 2026-10-11",
+          "status": "single-source",
+          "status_html": "<p>Single source · as posted in <a href=\"https://www.reddit.com/r/sofistock/comments/1x13txl/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>; a sell-side consensus has no primary source · 2026-10-11</p>",
+          "updated": "2026-10-11",
+          "sources": [
+            "r/sofistock"
+          ],
+          "due": "2026-10-27",
+          "due_label": "Q3 results"
+        },
+        {
           "headline": "<strong>Full-year 2026 guidance, as given with Q2 results:</strong> adjusted net revenue of &quot;approximately $4.75 billion to $4.85 billion&quot;, adjusted net income of &quot;approximately $825 million&quot;, adjusted EPS…",
           "html": "<p><strong>Full-year 2026 guidance, as given with Q2 results:</strong> adjusted net revenue of &quot;approximately $4.75 billion to $4.85 billion&quot;, adjusted net income of &quot;approximately $825 million&quot;, adjusted EPS of &quot;approximately 60 cents per share&quot;, and member growth of &quot;at least 30% year-over-year&quot;. The sub's running question is whether Q3 raises or only reiterates it.</p>",
           "text": "Full-year 2026 guidance, as given with Q2 results: adjusted net revenue of \"approximately $4.75 billion to $4.85 billion\", adjusted net income of \"approximately $825 million\", adjusted EPS of \"approximately 60 cents per share\", and member growth of \"at least 30% year-over-year\". The sub's running question is whether Q3 raises or only reiterates it. Verified against the Q2 2026 earnings release · 2026-10-08",
@@ -366,10 +557,32 @@
         {
           "headline": "<strong>&quot;SoFi is just a bank&quot; versus &quot;SoFi is a fintech&quot;.</strong>",
           "html": "<p><strong>&quot;SoFi is just a bank&quot; versus &quot;SoFi is a fintech&quot;.</strong> This framing sits under most valuation threads. One side says rate moves drive the stock because most revenue is lending. The other says the tech platform and fee businesses are being given no value at all.</p>",
-          "text": "\"SoFi is just a bank\" versus \"SoFi is a fintech\". This framing sits under most valuation threads. One side says rate moves drive the stock because most revenue is lending. The other says the tech platform and fee businesses are being given no value at all. Single source each time; a debate, not a finding · 2026-10-08",
+          "text": "\"SoFi is just a bank\" versus \"SoFi is a fintech\". This framing sits under most valuation threads. One side says rate moves drive the stock because most revenue is lending. The other says the tech platform and fee businesses are being given no value at all. Single source each time; a debate, not a finding · 2026-10-11",
           "status": "single-source",
-          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-08</p>",
-          "updated": "2026-10-08",
+          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-11</p>",
+          "updated": "2026-10-11",
+          "sources": [],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>&quot;SoFi sandbags its guidance.&quot;</strong>",
+          "html": "<p><strong>&quot;SoFi sandbags its guidance.&quot;</strong> The sub treats conservative guidance as the company's deliberate policy and cites a four-year record of meeting or beating. It is the reason most members give for not fearing a quarterly estimate, and it is why they expect any sell-off to come from the forward guide instead.</p>",
+          "text": "\"SoFi sandbags its guidance.\" The sub treats conservative guidance as the company's deliberate policy and cites a four-year record of meeting or beating. It is the reason most members give for not fearing a quarterly estimate, and it is why they expect any sell-off to come from the forward guide instead. Reported from several commenters across runs; the Q2 2026 release states guidance but no such policy · 2026-10-11",
+          "status": "reported",
+          "status_html": "<p>Reported from several commenters across runs; the Q2 2026 release states guidance but no such policy · 2026-10-11</p>",
+          "updated": "2026-10-11",
+          "sources": [],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>&quot;SoFi has been profitable for 17 straight quarters.&quot;</strong>",
+          "html": "<p><strong>&quot;SoFi has been profitable for 17 straight quarters.&quot;</strong> Posted in the 2026-10-11 Sankey thread and contradicted in the same thread by a reply naming Q4 2023, which would be eleven quarters through Q2 2026. The Q2 2026 release claims only a 19-quarter Rule of 40 streak.</p>",
+          "text": "\"SoFi has been profitable for 17 straight quarters.\" Posted in the 2026-10-11 Sankey thread and contradicted in the same thread by a reply naming Q4 2023, which would be eleven quarters through Q2 2026. The Q2 2026 release claims only a 19-quarter Rule of 40 streak. Unconfirmed · the Q2 2026 earnings release makes no consecutive-profitability claim · 2026-10-11",
+          "status": "unconfirmed",
+          "status_html": "<p><strong>Unconfirmed</strong> · the Q2 2026 earnings release makes no consecutive-profitability claim · 2026-10-11</p>",
+          "updated": "2026-10-11",
           "sources": [],
           "due": null,
           "due_label": null
