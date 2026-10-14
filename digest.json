@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11",
+  "generated": "2026-10-14",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,158 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-14",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>Two sell-side notes landed in the three days since the last run and took opposite sides on the same quarter, which gave the sub something concrete to argue about for the first time in a fortnight. The macro backdrop got worse while they did: the 14 October daily chat opens on a hot CPI print, mixed bank results and members watching Bank of America fall pre-market. The run's other organic content is an AI-generated bear case the sub rejected on its comps, and the usual pre-earnings options talk.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Two firms published opposite calls on the same 27 October quarter within a day of each other, at price targets of $25 and $15.</strong>",
+              "html": "<p><strong>Two firms published opposite calls on the same 27 October quarter within a day of each other, at price targets of $25 and $15.</strong> StoneX initiated coverage at Buy on 12 October; Keefe, Bruyette &amp; Woods cut its target by a dollar and kept Underperform.</p>\n<ul>\n<li><strong>Why it matters:</strong> the two notes disagree about the mechanism, not the mood. StoneX analyst Mark Palmer argues the 40% decline is the opportunity — in the words quoted in <a href=\"https://www.reddit.com/r/sofistock/comments/1x4wvl0/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, &quot;A 40% price decline alone does not make a stock inexpensive, but such a drop paired with record operating progress and an underappreciated new business line does, in our view.&quot; KBW's Tim Switzer argues the opposite case from the balance sheet: rising third-quarter rates against a growing loan book create a fair-value headwind that makes guidance reachable only by consuming capital faster. The sub's reaction to KBW was not to engage the capital argument but to read the $15 target as a floor — the top comment is &quot;nice, even KBW the permabear agrees that theres a $15 floor under this thing.&quot;</li>\n<li><strong>What to watch:</strong> Q3 results at about 7 a.m. Eastern on Tuesday 27 October, with the call at 8 a.m.; whether the quarter clears full-year guidance of approximately $4.75–4.85 billion adjusted net revenue, approximately $825 million adjusted net income and approximately 60 cents adjusted EPS; and what the release says about capital levels and fair-value marks, which is the specific line KBW's note puts at risk.</li>\n<li><strong>Numbers:</strong> as reported by the firms — StoneX's target is $25, against a Monday close of $15.23 and a 52-week low of $14.88; KBW's is $15, down from $16, with the firm estimating a gross rate headwind &quot;exceeding $1.0 billion this quarter before hedging offsets&quot; and still expecting SoFi to hit consensus and guidance in its base case. One figure in the StoneX relay is wrong: it gives second-quarter adjusted net revenue as &quot;$4.27 billion&quot;, where SoFi's own Q2 release reports $1,205,550 thousand, up 40% year over year — the growth rate matches, the level does not, and $4.27 billion is a trailing-twelve-month figure rather than a quarter. A trailing EPS of $0.47 is attributed to InvestingPro and was not checked.</li>\n<li><strong>Caveats:</strong> both are one firm's argument about an unreported quarter, and neither is a company statement. The analyst notes themselves are not public; everything here comes from press relays. The sub's &quot;floor&quot; reading of a price target is sentiment, not a finding — a target is not a support level. KBW's rate framing is the analyst's, not something SoFi has named as material.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.cnbc.com/2026/10/13/sofi-stock-stonex-buy-rating.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC on the StoneX initiation</a></li>\n</ul>",
+              "text": "Two firms published opposite calls on the same 27 October quarter within a day of each other, at price targets of $25 and $15. StoneX initiated coverage at Buy on 12 October; Keefe, Bruyette & Woods cut its target by a dollar and kept Underperform. Why it matters: the two notes disagree about the mechanism, not the mood. StoneX analyst Mark Palmer argues the 40% decline is the opportunity — in the words quoted in the thread , \"A 40% price decline alone does not make a stock inexpensive, but such a drop paired with record operating progress and an underappreciated new business line does, in our view.\" KBW's Tim Switzer argues the opposite case from the balance sheet: rising third-quarter rates against a growing loan book create a fair-value headwind that makes guidance reachable only by consuming capital faster. The sub's reaction to KBW was not to engage the capital argument but to read the $15 target as a floor — the top comment is \"nice, even KBW the permabear agrees that theres a $15 floor under this thing.\" What to watch: Q3 results at about 7 a.m. Eastern on Tuesday 27 October, with the call at 8 a.m.; whether the quarter clears full-year guidance of approximately $4.75–4.85 billion adjusted net revenue, approximately $825 million adjusted net income and approximately 60 cents adjusted EPS; and what the release says about capital levels and fair-value marks, which is the specific line KBW's note puts at risk. Numbers: as reported by the firms — StoneX's target is $25, against a Monday close of $15.23 and a 52-week low of $14.88; KBW's is $15, down from $16, with the firm estimating a gross rate headwind \"exceeding $1.0 billion this quarter before hedging offsets\" and still expecting SoFi to hit consensus and guidance in its base case. One figure in the StoneX relay is wrong: it gives second-quarter adjusted net revenue as \"$4.27 billion\", where SoFi's own Q2 release reports $1,205,550 thousand, up 40% year over year — the growth rate matches, the level does not, and $4.27 billion is a trailing-twelve-month figure rather than a quarter. A trailing EPS of $0.47 is attributed to InvestingPro and was not checked. Caveats: both are one firm's argument about an unreported quarter, and neither is a company statement. The analyst notes themselves are not public; everything here comes from press relays. The sub's \"floor\" reading of a price target is sentiment, not a finding — a target is not a support level. KBW's rate framing is the analyst's, not something SoFi has named as material. Read next: CNBC on the StoneX initiation Verified that both notes exist and for their ratings, targets and dates, against CNBC and StreetInsider ; the Q2 revenue correction is Verified against the Q2 2026 earnings release",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> that both notes exist and for their ratings, targets and dates, against <a href=\"https://www.cnbc.com/2026/10/13/sofi-stock-stonex-buy-rating.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and <a href=\"https://www.streetinsider.com/Analyst+Comments/SoFi+Technologies+(SOFI)+PT+Lowered+to+$15+at+Keefe,+Bruyette+&amp;+Woods/27174455.html\" target=\"_blank\" rel=\"noopener noreferrer\">StreetInsider</a>; the Q2 revenue correction is <strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000050/a2026q2earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q2 2026 earnings release</a></p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "CNBC",
+                "streetinsider.com",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Due diligence",
+          "category": "dd",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>An AI-generated ten-exhibit bear case putting fair value at $11.46 sits at zero points, and the comments attack the comparables rather than the arithmetic.</strong>",
+              "html": "<p><strong>An AI-generated ten-exhibit bear case putting fair value at $11.46 sits at zero points, and the comments attack the comparables rather than the arithmetic.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1x3lc35/\" target=\"_blank\" rel=\"noopener noreferrer\">The gallery post</a> says it is built from SoFi's own SEC filings and quotes a 27% downside; its author defends the framework at length in the replies. The thesis, in the author's own words, is that &quot;93% of SoFi's segment revenue is Lending + Financial Services&quot; while &quot;The Technology Platform — the part that justifies a 'fintech' label — is 6.6% of revenue and fell 23% YoY&quot;, so the right comparable is a lender, and &quot;You're paying 4.4x Synchrony's P/E for 0.27x its ROTCE.&quot; The objections are specific. One commenter says Synchrony is a mature business whose EPS is falling and whose revenue grows in the low single digits, against SoFi growing revenue 25–30%, and concludes &quot;maybe if you start with a bad comp, the rest doesn't matter&quot;; another says the exhibit shows +7.9% growth for Synchrony when the real figure is −7.9% and posts a screenshot; a third notes the absence of any PEG comparison. Several dismiss it as AI output without addressing it.</p>",
+              "text": "An AI-generated ten-exhibit bear case putting fair value at $11.46 sits at zero points, and the comments attack the comparables rather than the arithmetic. The gallery post says it is built from SoFi's own SEC filings and quotes a 27% downside; its author defends the framework at length in the replies. The thesis, in the author's own words, is that \"93% of SoFi's segment revenue is Lending + Financial Services\" while \"The Technology Platform — the part that justifies a 'fintech' label — is 6.6% of revenue and fell 23% YoY\", so the right comparable is a lender, and \"You're paying 4.4x Synchrony's P/E for 0.27x its ROTCE.\" The objections are specific. One commenter says Synchrony is a mature business whose EPS is falling and whose revenue grows in the low single digits, against SoFi growing revenue 25–30%, and concludes \"maybe if you start with a bad comp, the rest doesn't matter\"; another says the exhibit shows +7.9% growth for Synchrony when the real figure is −7.9% and posts a screenshot; a third notes the absence of any PEG comparison. Several dismiss it as AI output without addressing it. Single source · one author's model, and the figures in it — the 93%, the 6.6%, the 23% decline, the ROTCE ratio and the $11.46 — are as posted and were not independently checked against the filings.",
+              "status": "single-source",
+              "status_html": "<p>Single source · one author's model, and the figures in it — the 93%, the 6.6%, the 23% decline, the ROTCE ratio and the $11.46 — are as posted and were not independently checked against the filings.</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The mood this run is macro, not company.",
+              "html": "<p>The mood this run is macro, not company. The <a href=\"https://www.reddit.com/r/sofistock/comments/1x5khl9/\" target=\"_blank\" rel=\"noopener noreferrer\">14 October daily chat</a> opens on a hot CPI print, with one member writing &quot;CPI red hot, banks reporting mixed results. Probabiliyt of fed rate hikes is increasing. Hang on.&quot; and another pointing at Bank of America down almost 8% pre-market. A separate comment asks the question the sub cannot answer: &quot;Aren't banking stocks beating earnings? I would have expected that to help sofi.&quot;</p>",
+              "text": "The mood this run is macro, not company. The 14 October daily chat opens on a hot CPI print, with one member writing \"CPI red hot, banks reporting mixed results. Probabiliyt of fed rate hikes is increasing. Hang on.\" and another pointing at Bank of America down almost 8% pre-market. A separate comment asks the question the sub cannot answer: \"Aren't banking stocks beating earnings? I would have expected that to help sofi.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The sub's response to the KBW cut was to attack the analyst rather than the argument.</strong>",
+              "html": "<p><strong>The sub's response to the KBW cut was to attack the analyst rather than the argument.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1x4eb3x/\" target=\"_blank\" rel=\"noopener noreferrer\">A thread titled &quot;Tim Switzer of KBW has NEVER been right with his SoFi price targets&quot;</a> collects four dismissive replies and no data. In the note's own thread, one member recalls his end-of-2024 target as &quot;7.5/8 dollars&quot; against a close &quot;around $15&quot;, and several call the downgrade manipulation or a hit piece. Those claims are as posted; none carries a source.</p>",
+              "text": "The sub's response to the KBW cut was to attack the analyst rather than the argument. A thread titled \"Tim Switzer of KBW has NEVER been right with his SoFi price targets\" collects four dismissive replies and no data. In the note's own thread, one member recalls his end-of-2024 target as \"7.5/8 dollars\" against a close \"around $15\", and several call the downgrade manipulation or a hit piece. Those claims are as posted; none carries a source.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Pre-earnings options talk is the run&#x27;s other recurring thread, and the useful part is about implied volatility rather than direction.",
+              "html": "<p>Pre-earnings options talk is the run's other recurring thread, and the useful part is about implied volatility rather than direction. In <a href=\"https://www.reddit.com/r/sofistock/comments/1x52jna/\" target=\"_blank\" rel=\"noopener noreferrer\">the LEAPS thread</a>, the top comment argues against out-of-the-money contracts specifically because &quot;IV expansion is going to get crushed post earnings most likely, meaning you're likely going to be overpaying for OTM options past that&quot;, and prefers in-the-money strikes at a breakeven the holder would actually exercise. A daily-chat comment puts the options market's implied post-earnings move at plus or minus 10%, as posted. One member's reply is a warning about the sub itself: judging by the topics, &quot;we might be reaching the 'mid to high levels of degeneracy' stage on the lower end of the stock price.&quot;</p>",
+              "text": "Pre-earnings options talk is the run's other recurring thread, and the useful part is about implied volatility rather than direction. In the LEAPS thread , the top comment argues against out-of-the-money contracts specifically because \"IV expansion is going to get crushed post earnings most likely, meaning you're likely going to be overpaying for OTM options past that\", and prefers in-the-money strikes at a breakeven the holder would actually exercise. A daily-chat comment puts the options market's implied post-earnings move at plus or minus 10%, as posted. One member's reply is a warning about the sub itself: judging by the topics, \"we might be reaching the 'mid to high levels of degeneracy' stage on the lower end of the stock price.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A post on the stablecoin opportunity drew 50 points and nine comments, none of which discuss the linked argument; the replies are price predictions and emoji.",
+              "html": "<p><a href=\"https://www.reddit.com/r/sofistock/comments/1x0a797/\" target=\"_blank\" rel=\"noopener noreferrer\">A post on the stablecoin opportunity</a> drew 50 points and nine comments, none of which discuss the linked argument; the replies are price predictions and emoji. Noted because the stablecoin franchise is also what StoneX singles out, and the sub is not examining it.</p>",
+              "text": "A post on the stablecoin opportunity drew 50 points and nine comments, none of which discuss the linked argument; the replies are price predictions and emoji. Noted because the stablecoin franchise is also what StoneX singles out, and the sub is not examining it.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock.",
+              "html": "<p><strong>Read:</strong> sofistock. <strong>Sources checked:</strong> SoFi's SEC EDGAR filing index, which shows nothing filed since 23 September. SoFi's investor news page again loads its releases dynamically and returned an empty template to an automated request; a press-release index and web search covered the window instead and show nothing issued after the 8 October Orbi release.</p>",
+              "text": "Read: sofistock. Sources checked: SoFi's SEC EDGAR filing index, which shows nothing filed since 23 September. SoFi's investor news page again loads its releases dynamically and returned an empty template to an automated request; a press-release index and web search covered the window instead and show nothing issued after the 8 October Orbi release.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. The most recent company announcement remains the 8 October Orbi card deal, covered in the 2026-10-08 entry.</p>",
+              "text": "Announced, not discussed: none. The most recent company announcement remains the 8 October Orbi card deal, covered in the 2026-10-08 entry. Verified against SEC EDGAR and a press-release index for October 2026",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001818874&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">SEC EDGAR</a> and a <a href=\"https://marketchameleon.com/Overview/SOFI/PressReleases/\" target=\"_blank\" rel=\"noopener noreferrer\">press-release index for October 2026</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "marketchameleon.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;technologies&quot; — noise.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;technologies&quot; — noise. It is the company's own name, picked up from the two analyst headlines that both write &quot;SoFi Technologies&quot;.</p>",
+              "text": "Flagged terms set aside: \"technologies\" — noise. It is the company's own name, picked up from the two analyst headlines that both write \"SoFi Technologies\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "title": "SoFi stock digest",
@@ -482,6 +634,19 @@
           "due_label": "Q3 results"
         },
         {
+          "headline": "<strong>KBW estimates a gross fair-value rate headwind &quot;exceeding $1.0 billion&quot; in Q3 2026 before hedging offsets, and expects guidance to be reachable only with faster capital consumption.</strong>",
+          "html": "<p><strong>KBW estimates a gross fair-value rate headwind &quot;exceeding $1.0 billion&quot; in Q3 2026 before hedging offsets, and expects guidance to be reachable only with faster capital consumption.</strong> The firm still expects SoFi to hit consensus and guidance in its base case. Check the capital ratios and fair-value marks in the Q3 release against this.</p>",
+          "text": "KBW estimates a gross fair-value rate headwind \"exceeding $1.0 billion\" in Q3 2026 before hedging offsets, and expects guidance to be reachable only with faster capital consumption. The firm still expects SoFi to hit consensus and guidance in its base case. Check the capital ratios and fair-value marks in the Q3 release against this. Verified that the note says this, against StreetInsider ; the estimate itself is one firm's and SoFi has not named a rate headwind as material · 2026-10-14",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> that the note says this, against <a href=\"https://www.streetinsider.com/Analyst+Comments/SoFi+Technologies+(SOFI)+PT+Lowered+to+$15+at+Keefe,+Bruyette+&amp;+Woods/27174455.html\" target=\"_blank\" rel=\"noopener noreferrer\">StreetInsider</a>; the estimate itself is one firm's and SoFi has not named a rate headwind as material · 2026-10-14</p>",
+          "updated": "2026-10-14",
+          "sources": [
+            "streetinsider.com"
+          ],
+          "due": "2026-10-27",
+          "due_label": "Q3 results"
+        },
+        {
           "headline": "<strong>Full-year 2026 guidance, as given with Q2 results:</strong> adjusted net revenue of &quot;approximately $4.75 billion to $4.85 billion&quot;, adjusted net income of &quot;approximately $825 million&quot;, adjusted EPS…",
           "html": "<p><strong>Full-year 2026 guidance, as given with Q2 results:</strong> adjusted net revenue of &quot;approximately $4.75 billion to $4.85 billion&quot;, adjusted net income of &quot;approximately $825 million&quot;, adjusted EPS of &quot;approximately 60 cents per share&quot;, and member growth of &quot;at least 30% year-over-year&quot;. The sub's running question is whether Q3 raises or only reiterates it.</p>",
           "text": "Full-year 2026 guidance, as given with Q2 results: adjusted net revenue of \"approximately $4.75 billion to $4.85 billion\", adjusted net income of \"approximately $825 million\", adjusted EPS of \"approximately 60 cents per share\", and member growth of \"at least 30% year-over-year\". The sub's running question is whether Q3 raises or only reiterates it. Verified against the Q2 2026 earnings release · 2026-10-08",
@@ -490,6 +655,19 @@
           "updated": "2026-10-08",
           "sources": [
             "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Open sell-side targets ahead of Q3: StoneX $25 at Buy, initiated 12 October 2026; KBW $15 at Underperform, cut from $16 on 12 October 2026.</strong>",
+          "html": "<p><strong>Open sell-side targets ahead of Q3: StoneX $25 at Buy, initiated 12 October 2026; KBW $15 at Underperform, cut from $16 on 12 October 2026.</strong> Kept as a record of what was published before the print, not as a forecast. The sub reads the KBW target as a price floor, which it is not.</p>",
+          "text": "Open sell-side targets ahead of Q3: StoneX $25 at Buy, initiated 12 October 2026; KBW $15 at Underperform, cut from $16 on 12 October 2026. Kept as a record of what was published before the print, not as a forecast. The sub reads the KBW target as a price floor, which it is not. Verified for ratings, targets and dates, against CNBC and StreetInsider; the notes themselves are not public · 2026-10-14",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for ratings, targets and dates, against <a href=\"https://www.cnbc.com/2026/10/13/sofi-stock-stonex-buy-rating.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and StreetInsider; the notes themselves are not public · 2026-10-14</p>",
+          "updated": "2026-10-14",
+          "sources": [
+            "CNBC"
           ],
           "due": null,
           "due_label": null
@@ -556,11 +734,22 @@
       "items": [
         {
           "headline": "<strong>&quot;SoFi is just a bank&quot; versus &quot;SoFi is a fintech&quot;.</strong>",
-          "html": "<p><strong>&quot;SoFi is just a bank&quot; versus &quot;SoFi is a fintech&quot;.</strong> This framing sits under most valuation threads. One side says rate moves drive the stock because most revenue is lending. The other says the tech platform and fee businesses are being given no value at all.</p>",
-          "text": "\"SoFi is just a bank\" versus \"SoFi is a fintech\". This framing sits under most valuation threads. One side says rate moves drive the stock because most revenue is lending. The other says the tech platform and fee businesses are being given no value at all. Single source each time; a debate, not a finding · 2026-10-11",
+          "html": "<p><strong>&quot;SoFi is just a bank&quot; versus &quot;SoFi is a fintech&quot;.</strong> This framing sits under most valuation threads. One side says rate moves drive the stock because most revenue is lending. The other says the tech platform and fee businesses are being given no value at all. The 2026-10-14 bear case made it quantitative — lending plus financial services as 93% of segment revenue against a 6.6% tech platform — and the sub answered on comparables rather than on the split.</p>",
+          "text": "\"SoFi is just a bank\" versus \"SoFi is a fintech\". This framing sits under most valuation threads. One side says rate moves drive the stock because most revenue is lending. The other says the tech platform and fee businesses are being given no value at all. The 2026-10-14 bear case made it quantitative — lending plus financial services as 93% of segment revenue against a 6.6% tech platform — and the sub answered on comparables rather than on the split. Single source each time; a debate, not a finding · 2026-10-14",
           "status": "single-source",
-          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-11</p>",
-          "updated": "2026-10-11",
+          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-14</p>",
+          "updated": "2026-10-14",
+          "sources": [],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>The sub treats sell-side downgrades as manipulation and bearish price targets as support levels.</strong>",
+          "html": "<p><strong>The sub treats sell-side downgrades as manipulation and bearish price targets as support levels.</strong> It recurs whenever a target is cut: the 2026-10-14 reaction to KBW's $15 was &quot;even KBW the permabear agrees that theres a $15 floor under this thing&quot;, alongside claims of a hit piece and price suppression. A price target is not a support level, and no post has produced data behind the manipulation claim.</p>",
+          "text": "The sub treats sell-side downgrades as manipulation and bearish price targets as support levels. It recurs whenever a target is cut: the 2026-10-14 reaction to KBW's $15 was \"even KBW the permabear agrees that theres a $15 floor under this thing\", alongside claims of a hit piece and price suppression. A price target is not a support level, and no post has produced data behind the manipulation claim. Single source each time; the pattern is Reported across runs, the manipulation claim is Unconfirmed · 2026-10-14",
+          "status": "single-source",
+          "status_html": "<p>Single source each time; the pattern is Reported across runs, the manipulation claim is <strong>Unconfirmed</strong> · 2026-10-14</p>",
+          "updated": "2026-10-14",
           "sources": [],
           "due": null,
           "due_label": null
