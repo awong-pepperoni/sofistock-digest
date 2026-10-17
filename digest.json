@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14",
+  "generated": "2026-10-17",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,99 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-17",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>A thin run. No company announcement and no SEC filing since 14 October; no story qualified for Must know this time — the sub's hot list is three mod-posted chat threads and a handful of price-at-new-lows posts, with the StoneX/KBW split and the AI bear case from the last entry still sitting on hot without new discussion.</p>",
+      "sections": [
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The dominant mood is the stock&#x27;s new multi-month low.",
+              "html": "<p>The dominant mood is the stock's new multi-month low. <a href=\"https://www.reddit.com/r/sofistock/comments/1x60bgk/\" target=\"_blank\" rel=\"noopener noreferrer\">One thread</a> frames it as cheap on a forward basis — the top comment cites &quot;[l]ess than 20x forward P/E with a rule of 40 score in the 60's&quot; — and draws a run of replies saying members added shares at these levels, several comparing the setup to Palantir's 2020s drawdown. One comment asks a question nobody answers: &quot;What is the quality of the debt it holds?&quot;, flagging dilution and debt quality as unresolved concerns against a year-over-year comparison to US Bancorp that the commenter says is unfavorable. A second, meme-heavy thread airs options losses from a 31 December 2025 LEAP in the same vein.</p>",
+              "text": "The dominant mood is the stock's new multi-month low. One thread frames it as cheap on a forward basis — the top comment cites \"[l]ess than 20x forward P/E with a rule of 40 score in the 60's\" — and draws a run of replies saying members added shares at these levels, several comparing the setup to Palantir's 2020s drawdown. One comment asks a question nobody answers: \"What is the quality of the debt it holds?\", flagging dilution and debt quality as unresolved concerns against a year-over-year comparison to US Bancorp that the commenter says is unfavorable. A second, meme-heavy thread airs options losses from a 31 December 2025 LEAP in the same vein.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A thread asking how the next two weeks of bank earnings will read across repeats the run&#x27;s standing explanation — &quot;sofi will get treated as a bank so long as…",
+              "html": "<p><a href=\"https://www.reddit.com/r/sofistock/comments/1x1vlx7/\" target=\"_blank\" rel=\"noopener noreferrer\">A thread asking how the next two weeks of bank earnings will read across</a> repeats the run's standing explanation — &quot;sofi will get treated as a bank so long as the sentiment is bad for banks&quot; — already covered in an earlier entry; nothing here changes that reading.</p>",
+              "text": "A thread asking how the next two weeks of bank earnings will read across repeats the run's standing explanation — \"sofi will get treated as a bank so long as the sentiment is bad for banks\" — already covered in an earlier entry; nothing here changes that reading.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A low-engagement post resurfacing Orbi&#x27;s digital-dollars pitch for Mexico drew zero comments; it adds nothing to the Orbi/Mastercard card-program deal alread…",
+              "html": "<p>A low-engagement post resurfacing Orbi's digital-dollars pitch for Mexico drew zero comments; it adds nothing to the Orbi/Mastercard card-program deal already covered in the 8 October entry.</p>",
+              "text": "A low-engagement post resurfacing Orbi's digital-dollars pitch for Mexico drew zero comments; it adds nothing to the Orbi/Mastercard card-program deal already covered in the 8 October entry.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock.",
+              "html": "<p><strong>Read:</strong> sofistock. <strong>Sources checked:</strong> SoFi's SEC EDGAR filing index, which shows nothing filed since 23 September. SoFi's investor news page again loads its releases dynamically and returned no listing to an automated request; a web search was used instead and turned up nothing issued after the 29 September/3 October Q3 call-scheduling announcement, already covered in the tracker.</p>",
+              "text": "Read: sofistock. Sources checked: SoFi's SEC EDGAR filing index, which shows nothing filed since 23 September. SoFi's investor news page again loads its releases dynamically and returned no listing to an automated request; a web search was used instead and turned up nothing issued after the 29 September/3 October Q3 call-scheduling announcement, already covered in the tracker.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none.</p>",
+              "text": "Announced, not discussed: none. Verified against SEC EDGAR and web search for SoFi Technologies press releases, October 2026",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001818874&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">SEC EDGAR</a> and web search for SoFi Technologies press releases, October 2026</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none this run.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none this run.</p>",
+              "text": "Flagged terms set aside: none this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "title": "SoFi stock digest",
