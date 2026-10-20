@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-20",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,167 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-20",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>A week out from the 27 October print, the sub has stopped arguing about the company and is just watching the price. No SEC filing since 23 September and no company release since the 8 October Orbi deal, so no story qualified for Must know — the 27 October results and the guidance behind them were already Must know on 8 October and nothing about them has changed. What is new: the stock set a fresh 52-week low, a published consensus figure now sits under the sub's 17-cent estimate, and the tone in the daily chats has turned from impatience to capitulation. The one unanswered question a member raised — why SoFi Tech Solutions is listing events — has an answer the thread never got.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The events listing a member spotted on SoFi Tech Solutions' site is a Latin America and payments conference run, not an announcement.</strong>",
+              "html": "<p><strong>The events listing a member spotted on SoFi Tech Solutions' site is a Latin America and payments conference run, not an announcement.</strong> In the <a href=\"https://www.reddit.com/r/sofistock/comments/1x9pxdi/\" target=\"_blank\" rel=\"noopener noreferrer\">19 October daily chat</a> a member posted a screenshot of an &quot;Event&quot; section on the SoFi Tech Solutions page and asked &quot;What are they doing there?&quot;; nobody in the thread answered. The page lists FELABAN CLAB on 15–16 October, framed around technology and AI &quot;reshaping banking across Latin America&quot;, Money20/20 USA on 18–21 October, and the Mexico City Formula 1 Grand Prix on 30 October–1 November, described as a chance to &quot;connect with one of the world's most passionate sports audiences&quot;. Two of the three are Mexico-facing, which is where the 8 October Orbi card program sits. None is a company announcement and none was disclosed in a release or filing.</p>",
+              "text": "The events listing a member spotted on SoFi Tech Solutions' site is a Latin America and payments conference run, not an announcement. In the 19 October daily chat a member posted a screenshot of an \"Event\" section on the SoFi Tech Solutions page and asked \"What are they doing there?\"; nobody in the thread answered. The page lists FELABAN CLAB on 15–16 October, framed around technology and AI \"reshaping banking across Latin America\", Money20/20 USA on 18–21 October, and the Mexico City Formula 1 Grand Prix on 30 October–1 November, described as a chance to \"connect with one of the world's most passionate sports audiences\". Two of the three are Mexico-facing, which is where the 8 October Orbi card program sits. None is a company announcement and none was disclosed in a release or filing. Reported · the listing is from SoFi Tech Solutions' events page , which returned HTTP 403 to a direct request; the dates and descriptions come from a search index of that page and were not read off the live site.",
+              "status": "reported",
+              "status_html": "<p>Reported · the listing is from <a href=\"https://tech.sofi.com/company/events/\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi Tech Solutions' events page</a>, which returned HTTP 403 to a direct request; the dates and descriptions come from a search index of that page and were not read off the live site.</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "tech.sofi.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Fundamentals and valuation",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A published consensus for the 27 October quarter now sits where the sub's 17-cent figure put it.</strong>",
+              "html": "<p><strong>A published consensus for the 27 October quarter now sits where the sub's 17-cent figure put it.</strong> MarketBeat's preview of the print gives expected earnings of $0.1672 per share on revenue of $1.25 billion. That corroborates the 17-cent estimate the sub was arguing about on 11 October, which had no source attached to it at the time. The sub's own position has not moved: the estimate is not the risk, the forward guide is.</p>",
+              "text": "A published consensus for the 27 October quarter now sits where the sub's 17-cent figure put it. MarketBeat's preview of the print gives expected earnings of $0.1672 per share on revenue of $1.25 billion. That corroborates the 17-cent estimate the sub was arguing about on 11 October, which had no source attached to it at the time. The sub's own position has not moved: the estimate is not the risk, the forward guide is. Reported · figures as published by MarketBeat , an aggregator of sell-side estimates; a consensus has no primary source and SoFi has issued no quarterly guidance.",
+              "status": "reported",
+              "status_html": "<p>Reported · figures as published by <a href=\"https://www.marketbeat.com/instant-alerts/upcoming-sofi-technologies-sofi-projected-to-post-earnings-on-tuesday-2026-10-20/\" target=\"_blank\" rel=\"noopener noreferrer\">MarketBeat</a>, an aggregator of sell-side estimates; a consensus has no primary source and SoFi has issued no quarterly guidance.</p>",
+              "updated": "2026-10-20",
+              "sources": [
+                "marketbeat.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The stock closed at $14.30 on 19 October after setting a 52-week low of $13.86, roughly 40% below where it started the year.</strong>",
+              "html": "<p><strong>The stock closed at $14.30 on 19 October after setting a 52-week low of $13.86, roughly 40% below where it started the year.</strong> The sub's figures match: a comment in the 19 October chat reads &quot;14.30 how tf did we get here&quot;, and the 20 October chat opens with &quot;13 incoming. Apparently last Thursday's rally was just typical dead-cat-bouncing day.&quot;</p>",
+              "text": "The stock closed at $14.30 on 19 October after setting a 52-week low of $13.86, roughly 40% below where it started the year. The sub's figures match: a comment in the 19 October chat reads \"14.30 how tf did we get here\", and the 20 October chat opens with \"13 incoming. Apparently last Thursday's rally was just typical dead-cat-bouncing day.\" Verified against stockanalysis.com's SOFI quote as of 19 October 2026; the year-to-date figure is that page's \"declined about 40% year-to-date\" and was not computed here.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's SOFI quote</a> as of 19 October 2026; the year-to-date figure is that page's &quot;declined about 40% year-to-date&quot; and was not computed here.</p>",
+              "updated": null,
+              "sources": [
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The run's biggest organic thread is 159 points of replies to a post nobody needs to read, because the sub is answering the price rather than the post.</strong>",
+              "html": "<p><strong>The run's biggest organic thread is 159 points of replies to a post nobody needs to read, because the sub is answering the price rather than the post.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1x9c61i/\" target=\"_blank\" rel=\"noopener noreferrer\">The thread</a> is a link post with no body, and the comments split into accumulation and resignation: &quot;As long as he keeps executing at a 20-30% compound growth rate that's all a man can ask for&quot;, answered by &quot;assuming outstanding shares dont also compound at 20-30%&quot;, alongside &quot;your wish has been granted and the stock is now 7 bucks again&quot;. The most informative replies are procedural — two members note that CEO Anthony Noto is in the quiet period before earnings and so &quot;can't say or do much&quot;, one adding &quot;I don't think he can buy this close to earnings. But maybe I'm wrong.&quot; Neither claim was sourced in the thread.</p>",
+              "text": "The run's biggest organic thread is 159 points of replies to a post nobody needs to read, because the sub is answering the price rather than the post. The thread is a link post with no body, and the comments split into accumulation and resignation: \"As long as he keeps executing at a 20-30% compound growth rate that's all a man can ask for\", answered by \"assuming outstanding shares dont also compound at 20-30%\", alongside \"your wish has been granted and the stock is now 7 bucks again\". The most informative replies are procedural — two members note that CEO Anthony Noto is in the quiet period before earnings and so \"can't say or do much\", one adding \"I don't think he can buy this close to earnings. But maybe I'm wrong.\" Neither claim was sourced in the thread.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The daily chats have shifted from impatience to closing positions.</strong>",
+              "html": "<p><strong>The daily chats have shifted from impatience to closing positions.</strong> In the <a href=\"https://www.reddit.com/r/sofistock/comments/1xal8ep/\" target=\"_blank\" rel=\"noopener noreferrer\">20 October chat</a> a member writes &quot;Closed everything. This year's theta gains wiped. Breakeven on the year.&quot;; others post &quot;Damn it's been painful lately&quot;, &quot;We are never seeing $16 again&quot; and a comparison to Nike and Lululemon as the year's other growth-company drawdowns. The countdown comment that opens every chat thread is still there, now reading &quot;8 days until Q3 earnings&quot;. The counterweight is one member's analogy in the <a href=\"https://www.reddit.com/r/sofistock/comments/1x9pxdi/\" target=\"_blank\" rel=\"noopener noreferrer\">19 October chat</a>: they recall Amazon's own stock sub reading the same way below $200 before it &quot;went to 280 after earnings&quot;, and concede the stock &quot;might fall even further with Sofi's earnings&quot;.</p>",
+              "text": "The daily chats have shifted from impatience to closing positions. In the 20 October chat a member writes \"Closed everything. This year's theta gains wiped. Breakeven on the year.\"; others post \"Damn it's been painful lately\", \"We are never seeing $16 again\" and a comparison to Nike and Lululemon as the year's other growth-company drawdowns. The countdown comment that opens every chat thread is still there, now reading \"8 days until Q3 earnings\". The counterweight is one member's analogy in the 19 October chat : they recall Amazon's own stock sub reading the same way below $200 before it \"went to 280 after earnings\", and concede the stock \"might fall even further with Sofi's earnings\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The sub's explanation for the decline has split between sector and manipulation.</strong>",
+              "html": "<p><strong>The sub's explanation for the decline has split between sector and manipulation.</strong> One member points at peers — &quot;Coinbase, Payapal, Hood, Upstart also down….it's a bank related problem&quot; — while others call it targeted: &quot;This targetted shorting is just getting malicious at this point&quot;, &quot;Everything green, meanwhile SoFi -0.96%. The manipulation is wilddddss&quot;, and a comment reading the price action as insiders knowing something. No post in this run produced data behind any of those claims; the pattern is already in the tracker.</p>",
+              "text": "The sub's explanation for the decline has split between sector and manipulation. One member points at peers — \"Coinbase, Payapal, Hood, Upstart also down….it's a bank related problem\" — while others call it targeted: \"This targetted shorting is just getting malicious at this point\", \"Everything green, meanwhile SoFi -0.96%. The manipulation is wilddddss\", and a comment reading the price action as insiders knowing something. No post in this run produced data behind any of those claims; the pattern is already in the tracker.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The run&#x27;s other hot organic post is the inverse-Cramer joke: a thread wishing Jim Cramer would turn bearish, whose own author concedes the premise fails beca…",
+              "html": "<p>The run's other hot organic post is the inverse-Cramer joke: <a href=\"https://www.reddit.com/r/sofistock/comments/1x4daiu/\" target=\"_blank\" rel=\"noopener noreferrer\">a thread</a> wishing Jim Cramer would turn bearish, whose own author concedes the premise fails because &quot;Sofi is actually improving and Cramer is not dumb&quot;. It carries no information about the company, and is noted only because it outranked everything substantive.</p>",
+              "text": "The run's other hot organic post is the inverse-Cramer joke: a thread wishing Jim Cramer would turn bearish, whose own author concedes the premise fails because \"Sofi is actually improving and Cramer is not dumb\". It carries no information about the company, and is noted only because it outranked everything substantive.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock.",
+              "html": "<p><strong>Read:</strong> sofistock. <strong>Sources checked:</strong> SoFi's SEC EDGAR filing index, which still shows nothing filed since 23 September. SoFi's investor news page again returned an empty template to an automated request; a press-release index and a web search covered the window instead and show nothing issued after the 8 October Orbi release.</p>",
+              "text": "Read: sofistock. Sources checked: SoFi's SEC EDGAR filing index, which still shows nothing filed since 23 September. SoFi's investor news page again returned an empty template to an automated request; a press-release index and a web search covered the window instead and show nothing issued after the 8 October Orbi release.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. The most recent company announcement remains the 8 October Orbi card deal, covered in the 2026-10-08 entry.</p>",
+              "text": "Announced, not discussed: none. The most recent company announcement remains the 8 October Orbi card deal, covered in the 2026-10-08 entry. Verified against SEC EDGAR and a press-release index for October 2026",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001818874&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">SEC EDGAR</a> and a <a href=\"https://marketchameleon.com/Overview/SOFI/PressReleases/\" target=\"_blank\" rel=\"noopener noreferrer\">press-release index for October 2026</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "marketchameleon.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none this run; the scan flagged no unfamiliar recurring terms.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none this run; the scan flagged no unfamiliar recurring terms.</p>",
+              "text": "Flagged terms set aside: none this run; the scan flagged no unfamiliar recurring terms.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "title": "SoFi stock digest",
@@ -714,14 +875,15 @@
           "due_label": "results and call"
         },
         {
-          "headline": "<strong>A 17-cent consensus EPS estimate for Q3 2026, as posted on the sub.</strong>",
-          "html": "<p><strong>A 17-cent consensus EPS estimate for Q3 2026, as posted on the sub.</strong> The sub's position is that the estimate is not the risk because the company guides conservatively; the forward guide is. Check the figure against the release.</p>",
-          "text": "A 17-cent consensus EPS estimate for Q3 2026, as posted on the sub. The sub's position is that the estimate is not the risk because the company guides conservatively; the forward guide is. Check the figure against the release. Single source · as posted in the thread ; a sell-side consensus has no primary source · 2026-10-11",
-          "status": "single-source",
-          "status_html": "<p>Single source · as posted in <a href=\"https://www.reddit.com/r/sofistock/comments/1x13txl/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>; a sell-side consensus has no primary source · 2026-10-11</p>",
-          "updated": "2026-10-11",
+          "headline": "<strong>Consensus for Q3 2026 of about 17 cents adjusted EPS on about $1.25 billion of revenue.</strong>",
+          "html": "<p><strong>Consensus for Q3 2026 of about 17 cents adjusted EPS on about $1.25 billion of revenue.</strong> First posted on the sub as a bare 17-cent figure; MarketBeat's 20 October preview gives $0.1672 and $1.25 billion. The sub's position is that the estimate is not the risk because the company guides conservatively; the forward guide is. Check both figures against the release.</p>",
+          "text": "Consensus for Q3 2026 of about 17 cents adjusted EPS on about $1.25 billion of revenue. First posted on the sub as a bare 17-cent figure; MarketBeat's 20 October preview gives $0.1672 and $1.25 billion. The sub's position is that the estimate is not the risk because the company guides conservatively; the forward guide is. Check both figures against the release. Reported · as posted in the thread and as published by MarketBeat ; a sell-side consensus has no primary source · 2026-10-20",
+          "status": "reported",
+          "status_html": "<p>Reported · as posted in <a href=\"https://www.reddit.com/r/sofistock/comments/1x13txl/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a> and as published by <a href=\"https://www.marketbeat.com/instant-alerts/upcoming-sofi-technologies-sofi-projected-to-post-earnings-on-tuesday-2026-10-20/\" target=\"_blank\" rel=\"noopener noreferrer\">MarketBeat</a>; a sell-side consensus has no primary source · 2026-10-20</p>",
+          "updated": "2026-10-20",
           "sources": [
-            "r/sofistock"
+            "r/sofistock",
+            "marketbeat.com"
           ],
           "due": "2026-10-27",
           "due_label": "Q3 results"
@@ -843,6 +1005,17 @@
           "status": "single-source",
           "status_html": "<p>Single source each time; the pattern is Reported across runs, the manipulation claim is <strong>Unconfirmed</strong> · 2026-10-14</p>",
           "updated": "2026-10-14",
+          "sources": [],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>The sub reads the share-price decline as targeted shorting or manipulation rather than sector pressure.</strong>",
+          "html": "<p><strong>The sub reads the share-price decline as targeted shorting or manipulation rather than sector pressure.</strong> It recurs in every daily chat as the stock falls — the 2026-10-20 run has &quot;This targetted shorting is just getting malicious at this point&quot; and &quot;Everything green, meanwhile SoFi -0.96%. The manipulation is wilddddss&quot; — against members in the same threads naming Coinbase, PayPal, Robinhood and Upstart as also down. No post has produced data behind the manipulation reading.</p>",
+          "text": "The sub reads the share-price decline as targeted shorting or manipulation rather than sector pressure. It recurs in every daily chat as the stock falls — the 2026-10-20 run has \"This targetted shorting is just getting malicious at this point\" and \"Everything green, meanwhile SoFi -0.96%. The manipulation is wilddddss\" — against members in the same threads naming Coinbase, PayPal, Robinhood and Upstart as also down. No post has produced data behind the manipulation reading. Unconfirmed · the claim recurs across runs with no source attached in any of them · 2026-10-20",
+          "status": "unconfirmed",
+          "status_html": "<p><strong>Unconfirmed</strong> · the claim recurs across runs with no source attached in any of them · 2026-10-20</p>",
+          "updated": "2026-10-20",
           "sources": [],
           "due": null,
           "due_label": null
