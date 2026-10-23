@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20",
+  "generated": "2026-10-23",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,202 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-23",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>Four days from the 27 October print, the sub got company news instead of price action for the first time in a fortnight: a tokenized deposit product on 22 October and a life-insurance partnership on 21 October, both confirmed outside Reddit. The filing drought also ended — a Form 4 on 22 October is SoFi's first filing since 23 September — and a third sell-side target cut landed on the morning of this run. The daily chats themselves have not changed: a countdown comment, a short-interest argument, and members watching whether the stock can hold $15.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>SoFi Bank launched SoFi Earn (SOFIE) on 22 October, which it calls the first and only national bank-issued tokenized deposit for consumers.</strong>",
+              "html": "<p><strong>SoFi Bank launched SoFi Earn (SOFIE) on 22 October, which it calls the first and only national bank-issued tokenized deposit for consumers.</strong> Each token represents a dollar on deposit at SoFi Bank, pays interest while it sits there, and converts one-for-one into the SoFiUSD stablecoin so it can buy crypto or leave the platform at any hour.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is the first consumer product behind the stablecoin claim the bull case has been resting on — StoneX, initiating at Buy on 12 October, described SoFi as having &quot;the most advanced bank-issued stablecoin franchise in the U.S.&quot; without a retail deposit token existing yet. It is also the run's dominant organic post at 107 points and 24 comments, ahead of everything else that is not a mod thread or a meme.</li>\n<li><strong>What to watch:</strong> SoFi says the rollout reaches SoFi Crypto members through November, so nothing from it lands in the 27 October quarter; the company frames it as its fifth new crypto offering in under a year, and no deposit-balance or revenue figure has been attached to it by the company or anyone on the sub.</li>\n<li><strong>Numbers:</strong> as announced by SoFi — a 4.40% APY, one SOFIE per dollar on deposit at SoFi Bank, N.A., and a 1:1 conversion into SoFiUSD. As posted on the sub — no figures at all; a member linked <a href=\"https://www.sofi.com/crypto/legal/tokenized-deposit-rate-sheet\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's rate sheet</a> in the 22 October chat but nobody quoted from it.</li>\n<li><strong>Caveats:</strong> the FDIC coverage attaches to SOFIE and not to the converted token — The Block quotes SoFi that &quot;SoFiUSD, like other stablecoins, is not an FDIC-insured deposit&quot; — so the insured yield and the on-chain usability are not available at the same moment. The sub does not appear to understand the product: the top comment is &quot;This just feels like a regular deposit with extra steps. (I am too uninformed on tokenization to understand)&quot;, answered by a member summarising it as a 4.40% savings option &quot;with some extra setup&quot;. A reply asking whether SoFi Plus is required for the rate went unresolved.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916\" target=\"_blank\" rel=\"noopener noreferrer\">The Block's write-up of the launch</a>, which carries the FDIC caveat and the CEO quote.</li>\n</ul>",
+              "text": "SoFi Bank launched SoFi Earn (SOFIE) on 22 October, which it calls the first and only national bank-issued tokenized deposit for consumers. Each token represents a dollar on deposit at SoFi Bank, pays interest while it sits there, and converts one-for-one into the SoFiUSD stablecoin so it can buy crypto or leave the platform at any hour. Why it matters: it is the first consumer product behind the stablecoin claim the bull case has been resting on — StoneX, initiating at Buy on 12 October, described SoFi as having \"the most advanced bank-issued stablecoin franchise in the U.S.\" without a retail deposit token existing yet. It is also the run's dominant organic post at 107 points and 24 comments, ahead of everything else that is not a mod thread or a meme. What to watch: SoFi says the rollout reaches SoFi Crypto members through November, so nothing from it lands in the 27 October quarter; the company frames it as its fifth new crypto offering in under a year, and no deposit-balance or revenue figure has been attached to it by the company or anyone on the sub. Numbers: as announced by SoFi — a 4.40% APY, one SOFIE per dollar on deposit at SoFi Bank, N.A., and a 1:1 conversion into SoFiUSD. As posted on the sub — no figures at all; a member linked SoFi's rate sheet in the 22 October chat but nobody quoted from it. Caveats: the FDIC coverage attaches to SOFIE and not to the converted token — The Block quotes SoFi that \"SoFiUSD, like other stablecoins, is not an FDIC-insured deposit\" — so the insured yield and the on-chain usability are not available at the same moment. The sub does not appear to understand the product: the top comment is \"This just feels like a regular deposit with extra steps. (I am too uninformed on tokenization to understand)\", answered by a member summarising it as a 4.40% savings option \"with some extra setup\". A reply asking whether SoFi Plus is required for the rate went unresolved. Read next: The Block's write-up of the launch , which carries the FDIC caveat and the CEO quote. Verified that SoFi announced the product at a 4.40% APY on 22 October, against SoFi's own newsroom release as indexed and The Block ; the newsroom page and the rate sheet both returned HTTP 403 to a direct request, so the exact wording above comes from a search index of the release and from The Block rather than off the live pages.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> that SoFi announced the product at a 4.40% APY on 22 October, against <a href=\"https://www.sofi.com/newsroom/sofi-launches-sofi-earn-sofie-the-first-and-only-national-bank-issued-tokenized-deposit-for-consumers/\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's own newsroom release</a> as indexed and <a href=\"https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916\" target=\"_blank\" rel=\"noopener noreferrer\">The Block</a>; the newsroom page and the rate sheet both returned HTTP 403 to a direct request, so the exact wording above comes from a search index of the release and from The Block rather than off the live pages.</p>",
+              "updated": "2026-10-22",
+              "sources": [
+                "sofi.com",
+                "theblock.co"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>SoFi and Prudential Financial announced on 21 October that Prudential's SimplyTerm life insurance is now sold inside the SoFi app.</strong>",
+              "html": "<p><strong>SoFi and Prudential Financial announced on 21 October that Prudential's SimplyTerm life insurance is now sold inside the SoFi app.</strong> Prudential's release puts the reachable audience at &quot;over 15 million SoFi members&quot; and says eligible members can often get coverage in minutes with no medical exam or lab work. No financial terms, revenue split or volume target was disclosed by either company. <a href=\"https://www.reddit.com/r/sofistock/comments/1xbtk47/\" target=\"_blank\" rel=\"noopener noreferrer\">The sub's thread</a> is eleven comments of reaction rather than analysis — &quot;News is favorable…whew!!!!&quot; and, from the top reply, &quot;cool, more good news! will it move the stock? hell no.&quot;</p>",
+              "text": "SoFi and Prudential Financial announced on 21 October that Prudential's SimplyTerm life insurance is now sold inside the SoFi app. Prudential's release puts the reachable audience at \"over 15 million SoFi members\" and says eligible members can often get coverage in minutes with no medical exam or lab work. No financial terms, revenue split or volume target was disclosed by either company. The sub's thread is eleven comments of reaction rather than analysis — \"News is favorable…whew!!!!\" and, from the top reply, \"cool, more good news! will it move the stock? hell no.\" Verified against Prudential's newsroom release , which names Salene Hitchcock-Gear of Prudential and SoFi's Brian Walsh; SoFi's own investor news page again returned an empty template to an automated request.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://news.prudential.com/us-en/latest-news/prudential-news/2026/Q4/SoFi-and-Prudential-Financial-team-up-to-help-expand-access-to-life-insurance-for-more-Americans\" target=\"_blank\" rel=\"noopener noreferrer\">Prudential's newsroom release</a>, which names Salene Hitchcock-Gear of Prudential and SoFi's Brian Walsh; SoFi's own investor news page again returned an empty template to an automated request.</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "news.prudential.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>An executive sold 10,203 shares on 20 October under a trading plan adopted in July 2025, and the sub did not discuss it.</strong>",
+              "html": "<p><strong>An executive sold 10,203 shares on 20 October under a trading plan adopted in July 2025, and the sub did not discuss it.</strong> The Form 4 filed 22 October reports Kelli Keough, listed as EVP, selling at a weighted average of $14.7226 across trades from $14.23 to $14.98, leaving 397,870 shares held. It is a Rule 10b5-1 sale, so the timing four days before earnings was set over a year ago. This is the first SoFi filing of any kind since 23 September.</p>",
+              "text": "An executive sold 10,203 shares on 20 October under a trading plan adopted in July 2025, and the sub did not discuss it. The Form 4 filed 22 October reports Kelli Keough, listed as EVP, selling at a weighted average of $14.7226 across trades from $14.23 to $14.98, leaving 397,870 shares held. It is a Rule 10b5-1 sale, so the timing four days before earnings was set over a year ago. This is the first SoFi filing of any kind since 23 September. Verified against the Form 4 , read from the filing's own XML.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000203245826000030/\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4</a>, read from the filing's own XML.</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Fundamentals and valuation",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Truist Securities cut its SoFi price target to $16 from $19 on 23 October, the third target cut inside two weeks.</strong>",
+              "html": "<p><strong>Truist Securities cut its SoFi price target to $16 from $19 on 23 October, the third target cut inside two weeks.</strong> It follows KBW's cut to $15 on 12 October and sits against StoneX's $25 initiation the same day. A member posted it in the <a href=\"https://www.reddit.com/r/sofistock/comments/1xd6xu6/\" target=\"_blank\" rel=\"noopener noreferrer\">23 October chat</a> as a downgrade, which is not what the available coverage says — the reporting describes a target change, not a rating change, and does not give the rating.</p>",
+              "text": "Truist Securities cut its SoFi price target to $16 from $19 on 23 October, the third target cut inside two weeks. It follows KBW's cut to $15 on 12 October and sits against StoneX's $25 initiation the same day. A member posted it in the 23 October chat as a downgrade, which is not what the available coverage says — the reporting describes a target change, not a rating change, and does not give the rating. Reported · the target and date are as published by rallies.ai ; the note itself is not public and the rating was not stated in any source reached",
+              "status": "reported",
+              "status_html": "<p>Reported · the target and date are as published by <a href=\"https://rallies.ai/news/sofi-technologies-target-price-cut-to-16-from-19-by-truist-securities-ef8fc540eda6d8c2\" target=\"_blank\" rel=\"noopener noreferrer\">rallies.ai</a>; the note itself is not public and the rating was not stated in any source reached</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "rallies.ai"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The stock closed at $14.77 on 22 October, still above the $13.86 52-week low set the week before.</strong>",
+              "html": "<p><strong>The stock closed at $14.77 on 22 October, still above the $13.86 52-week low set the week before.</strong> The sub's own figures match: a member in the 22 October chat describes buying &quot;a few hundred shares/month at this price&quot;, naming $14.75, and another asks whether $15 &quot;is a new resistance&quot; after two sessions failing to break it.</p>",
+              "text": "The stock closed at $14.77 on 22 October, still above the $13.86 52-week low set the week before. The sub's own figures match: a member in the 22 October chat describes buying \"a few hundred shares/month at this price\", naming $14.75, and another asks whether $15 \"is a new resistance\" after two sessions failing to break it. Verified against stockanalysis.com's SOFI quote as of the 22 October close",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's SOFI quote</a> as of the 22 October close</p>",
+              "updated": null,
+              "sources": [
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The chats have swung back from last run's capitulation to pre-earnings positioning, without anything in between.</strong>",
+              "html": "<p><strong>The chats have swung back from last run's capitulation to pre-earnings positioning, without anything in between.</strong> The 22 October chat opens on the standing countdown comment, now &quot;5 days until Q3 earnings&quot;, and carries a member's reasoning that falling rate-hike odds plus low delinquencies across the banks that have already reported make the downside &quot;very limited here&quot; — immediately challenged in the same thread: &quot;Why are odds of hikes going down? All I see are headlines about escalation and PPI print being way higher than what the market expected.&quot; Neither side produced a figure.</p>",
+              "text": "The chats have swung back from last run's capitulation to pre-earnings positioning, without anything in between. The 22 October chat opens on the standing countdown comment, now \"5 days until Q3 earnings\", and carries a member's reasoning that falling rate-hike odds plus low delinquencies across the banks that have already reported make the downside \"very limited here\" — immediately challenged in the same thread: \"Why are odds of hikes going down? All I see are headlines about escalation and PPI print being way higher than what the market expected.\" Neither side produced a figure.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The short-interest reading has replaced the manipulation reading, in the same place and with the same evidence.</strong>",
+              "html": "<p><strong>The short-interest reading has replaced the manipulation reading, in the same place and with the same evidence.</strong> A member posts that it &quot;[l]iterally just feels like we need to hold and wait out these shorts to see $20 again&quot;, drawing &quot;Absurd short interest. This thing could be primed to hit in the 40s or 50s if they have to start covering&quot; and, from a third member, &quot;So wait til 2029?&quot;. No post in this run cited a short-interest number. The pattern is already in the tracker.</p>",
+              "text": "The short-interest reading has replaced the manipulation reading, in the same place and with the same evidence. A member posts that it \"[l]iterally just feels like we need to hold and wait out these shorts to see $20 again\", drawing \"Absurd short interest. This thing could be primed to hit in the 40s or 50s if they have to start covering\" and, from a third member, \"So wait til 2029?\". No post in this run cited a short-interest number. The pattern is already in the tracker.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The sub's running joke about what SoFi is being priced as has absorbed the macro.</strong>",
+              "html": "<p><strong>The sub's running joke about what SoFi is being priced as has absorbed the macro.</strong> One member asks &quot;Remember when Sofi was tanking because the 10 year was rising? Surely that means it will go up when yields go down? Right? RIGHT?!?&quot;, answered by a member deadpanning that &quot;SOFI is now considered an energy company. That's why the stock barely took a hit when the broader market is selling off.&quot; It is the same &quot;is it a bank or a fintech&quot; argument in the tracker, now carrying oil prices.</p>",
+              "text": "The sub's running joke about what SoFi is being priced as has absorbed the macro. One member asks \"Remember when Sofi was tanking because the 10 year was rising? Surely that means it will go up when yields go down? Right? RIGHT?!?\", answered by a member deadpanning that \"SOFI is now considered an energy company. That's why the stock barely took a hit when the broader market is selling off.\" It is the same \"is it a bank or a fintech\" argument in the tracker, now carrying oil prices.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "A member attributed the Truist cut to the firm being &quot;wary of a slowdown in european spending&quot; and objected that &quot;SoFi operates largely domestically&quot;.",
+              "html": "<p>A member attributed the Truist cut to the firm being &quot;wary of a slowdown in european spending&quot; and objected that &quot;SoFi operates largely domestically&quot;. No source reached states a reason for the cut, so neither the reason nor the objection to it can be checked; Truist's May 2026 cut was attributed to loan platform sales and Galileo demand, which is a different argument.</p>",
+              "text": "A member attributed the Truist cut to the firm being \"wary of a slowdown in european spending\" and objected that \"SoFi operates largely domestically\". No source reached states a reason for the cut, so neither the reason nor the objection to it can be checked; Truist's May 2026 cut was attributed to loan platform sales and Galileo demand, which is a different argument. Unconfirmed · a web search for the 23 October Truist note found the target and the date but no stated rationale, and the note is not public",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · a web search for the 23 October Truist note found the target and the date but no stated rationale, and the note is not public</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock.",
+              "html": "<p><strong>Read:</strong> sofistock. <strong>Sources checked:</strong> SoFi's SEC EDGAR filing index, which now shows a Form 4 filed 22 October after nothing since 23 September. SoFi's investor news page and press-release index both returned an empty template to an automated request again; SoFi's own newsroom returned HTTP 403, so the two company announcements were confirmed against Prudential's newsroom and a search index of SoFi's release instead.</p>",
+              "text": "Read: sofistock. Sources checked: SoFi's SEC EDGAR filing index, which now shows a Form 4 filed 22 October after nothing since 23 September. SoFi's investor news page and press-release index both returned an empty template to an automated request again; SoFi's own newsroom returned HTTP 403, so the two company announcements were confirmed against Prudential's newsroom and a search index of SoFi's release instead.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> the 20 October insider sale filed on 22 October, written up above because it is the window&#x27;s only filing — Form 4.",
+              "html": "<p><strong>Announced, not discussed:</strong> the 20 October insider sale filed on 22 October, written up above because it is the window's only filing — <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000203245826000030/\" target=\"_blank\" rel=\"noopener noreferrer\">Form 4</a>. Both company announcements in the window were discussed on the sub and are covered above.</p>",
+              "text": "Announced, not discussed: the 20 October insider sale filed on 22 October, written up above because it is the window's only filing — Form 4 . Both company announcements in the window were discussed on the sub and are covered above. Verified against SEC EDGAR",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001818874&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">SEC EDGAR</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "title": "SoFi stock digest",
@@ -915,14 +1111,15 @@
           "due_label": null
         },
         {
-          "headline": "<strong>Open sell-side targets ahead of Q3: StoneX $25 at Buy, initiated 12 October 2026; KBW $15 at Underperform, cut from $16 on 12 October 2026.</strong>",
-          "html": "<p><strong>Open sell-side targets ahead of Q3: StoneX $25 at Buy, initiated 12 October 2026; KBW $15 at Underperform, cut from $16 on 12 October 2026.</strong> Kept as a record of what was published before the print, not as a forecast. The sub reads the KBW target as a price floor, which it is not.</p>",
-          "text": "Open sell-side targets ahead of Q3: StoneX $25 at Buy, initiated 12 October 2026; KBW $15 at Underperform, cut from $16 on 12 October 2026. Kept as a record of what was published before the print, not as a forecast. The sub reads the KBW target as a price floor, which it is not. Verified for ratings, targets and dates, against CNBC and StreetInsider; the notes themselves are not public · 2026-10-14",
+          "headline": "<strong>Open sell-side targets ahead of Q3: StoneX $25 at Buy, initiated 12 October 2026; KBW $15 at Underperform, cut from $16 on 12 October 2026; Truist $16, cut from $19 on 23 October 2026.</strong>",
+          "html": "<p><strong>Open sell-side targets ahead of Q3: StoneX $25 at Buy, initiated 12 October 2026; KBW $15 at Underperform, cut from $16 on 12 October 2026; Truist $16, cut from $19 on 23 October 2026.</strong> Kept as a record of what was published before the print, not as a forecast. The sub reads the KBW target as a price floor, which it is not, and posted the Truist change as a downgrade, which no source reached supports — the Truist rating was not stated anywhere reachable.</p>",
+          "text": "Open sell-side targets ahead of Q3: StoneX $25 at Buy, initiated 12 October 2026; KBW $15 at Underperform, cut from $16 on 12 October 2026; Truist $16, cut from $19 on 23 October 2026. Kept as a record of what was published before the print, not as a forecast. The sub reads the KBW target as a price floor, which it is not, and posted the Truist change as a downgrade, which no source reached supports — the Truist rating was not stated anywhere reachable. Verified for the StoneX and KBW ratings, targets and dates, against CNBC and StreetInsider; the Truist target and date are Reported from rallies.ai with the rating and rationale Unconfirmed ; none of the notes is public · 2026-10-23",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> for ratings, targets and dates, against <a href=\"https://www.cnbc.com/2026/10/13/sofi-stock-stonex-buy-rating.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and StreetInsider; the notes themselves are not public · 2026-10-14</p>",
-          "updated": "2026-10-14",
+          "status_html": "<p><strong>Verified</strong> for the StoneX and KBW ratings, targets and dates, against <a href=\"https://www.cnbc.com/2026/10/13/sofi-stock-stonex-buy-rating.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and StreetInsider; the Truist target and date are Reported from <a href=\"https://rallies.ai/news/sofi-technologies-target-price-cut-to-16-from-19-by-truist-securities-ef8fc540eda6d8c2\" target=\"_blank\" rel=\"noopener noreferrer\">rallies.ai</a> with the rating and rationale <strong>Unconfirmed</strong>; none of the notes is public · 2026-10-23</p>",
+          "updated": "2026-10-23",
           "sources": [
-            "CNBC"
+            "CNBC",
+            "rallies.ai"
           ],
           "due": null,
           "due_label": null
@@ -955,6 +1152,20 @@
       "lead_html": null,
       "items": [
         {
+          "headline": "<strong>SoFi Earn (SOFIE), a tokenized deposit at a 4.40% APY, launched 22 October 2026 and rolls out to SoFi Crypto members through November 2026.</strong>",
+          "html": "<p><strong>SoFi Earn (SOFIE), a tokenized deposit at a 4.40% APY, launched 22 October 2026 and rolls out to SoFi Crypto members through November 2026.</strong> SoFi calls it the first and only national bank-issued tokenized deposit for consumers, and its fifth new crypto offering in under a year. One SOFIE is a dollar on deposit at SoFi Bank, N.A., convertible 1:1 into the SoFiUSD stablecoin; the FDIC coverage attaches to SOFIE and not to SoFiUSD. No deposit-balance or revenue figure has been attached to it. The rollout finishes after the Q3 print, so look for it in Q4 deposit and crypto disclosure rather than on 27 October.</p>",
+          "text": "SoFi Earn (SOFIE), a tokenized deposit at a 4.40% APY, launched 22 October 2026 and rolls out to SoFi Crypto members through November 2026. SoFi calls it the first and only national bank-issued tokenized deposit for consumers, and its fifth new crypto offering in under a year. One SOFIE is a dollar on deposit at SoFi Bank, N.A., convertible 1:1 into the SoFiUSD stablecoin; the FDIC coverage attaches to SOFIE and not to SoFiUSD. No deposit-balance or revenue figure has been attached to it. The rollout finishes after the Q3 print, so look for it in Q4 deposit and crypto disclosure rather than on 27 October. Verified that the product and rate were announced, against SoFi's newsroom release as indexed and The Block ; the newsroom page and rate sheet return HTTP 403 to an automated request · 2026-10-23",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> that the product and rate were announced, against <a href=\"https://www.sofi.com/newsroom/sofi-launches-sofi-earn-sofie-the-first-and-only-national-bank-issued-tokenized-deposit-for-consumers/\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's newsroom release</a> as indexed and <a href=\"https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916\" target=\"_blank\" rel=\"noopener noreferrer\">The Block</a>; the newsroom page and rate sheet return HTTP 403 to an automated request · 2026-10-23</p>",
+          "updated": "2026-10-23",
+          "sources": [
+            "sofi.com",
+            "theblock.co"
+          ],
+          "due": "2026-11-30",
+          "due_label": "rolling out \"through November\""
+        },
+        {
           "headline": "<strong>SoFi Tech Solutions provides the card program behind Orbi's crypto-linked Mastercard in Mexico, tied to SoFiUSD.</strong>",
           "html": "<p><strong>SoFi Tech Solutions provides the card program behind Orbi's crypto-linked Mastercard in Mexico, tied to SoFiUSD.</strong> Orbi is described as its first crypto-focused card client there. It was announced 8 October 2026, with no launch date.</p>",
           "text": "SoFi Tech Solutions provides the card program behind Orbi's crypto-linked Mastercard in Mexico, tied to SoFiUSD. Orbi is described as its first crypto-focused card client there. It was announced 8 October 2026, with no launch date. Verified against the press release · 2026-10-08",
@@ -963,6 +1174,19 @@
           "updated": "2026-10-08",
           "sources": [
             "Business Wire"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Prudential's SimplyTerm life insurance is sold inside the SoFi app, announced 21 October 2026.</strong>",
+          "html": "<p><strong>Prudential's SimplyTerm life insurance is sold inside the SoFi app, announced 21 October 2026.</strong> Prudential puts the reachable audience at &quot;over 15 million SoFi members&quot; and says eligible members can often be covered in minutes with no medical exam. Neither company disclosed financial terms, a revenue split or a volume target, so there is nothing yet to check a result against.</p>",
+          "text": "Prudential's SimplyTerm life insurance is sold inside the SoFi app, announced 21 October 2026. Prudential puts the reachable audience at \"over 15 million SoFi members\" and says eligible members can often be covered in minutes with no medical exam. Neither company disclosed financial terms, a revenue split or a volume target, so there is nothing yet to check a result against. Verified against Prudential's newsroom release · 2026-10-23",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://news.prudential.com/us-en/latest-news/prudential-news/2026/Q4/SoFi-and-Prudential-Financial-team-up-to-help-expand-access-to-life-insurance-for-more-Americans\" target=\"_blank\" rel=\"noopener noreferrer\">Prudential's newsroom release</a> · 2026-10-23</p>",
+          "updated": "2026-10-23",
+          "sources": [
+            "news.prudential.com"
           ],
           "due": null,
           "due_label": null
