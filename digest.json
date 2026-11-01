@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29",
+  "generated": "2026-11-01",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,149 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-01",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>The post-earnings rally gave some back on 30 October, a down day for the wider market. The sub's attention moved from the print to Noto's interview with a community YouTuber. Two valuation posts applied the new 2027 guide in opposite directions, and nothing was filed or announced. No story qualified for Must know this run: there are no results, filings or company announcements in the window, and the one event drawing attention is an interview.</p>",
+      "sections": [
+        {
+          "heading": "Fundamentals and valuation",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;SoFi: A Must-Buy! PEG of 0.39&quot; builds its case on a single year of guided EPS growth.</strong>",
+              "html": "<p><strong>&quot;SoFi: A Must-Buy! PEG of 0.39&quot; builds its case on a single year of guided EPS growth.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1xkimlj/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> takes management's 61 cents for 2026 and 90 cents for 2027, calls the step &quot;47.5%&quot; growth, and divides an &quot;18.6x&quot; 2027 P/E at &quot;$16.76&quot; by it. The top replies push back. One says &quot;They are not guiding for eps growth of 47.5% beyond 2027. PEG is below one but not 0.39&quot;, and puts expected growth at &quot;between 25 and 30%&quot;. Another says &quot;peg is not correct&quot;. The author answers that &quot;the only thing that matters is 2027 growth&quot;, and those replies were downvoted. The top comment overall is &quot;This sub is basically a Reddit version of Groundhog Day.&quot;</p>",
+              "text": "\"SoFi: A Must-Buy! PEG of 0.39\" builds its case on a single year of guided EPS growth. The post takes management's 61 cents for 2026 and 90 cents for 2027, calls the step \"47.5%\" growth, and divides an \"18.6x\" 2027 P/E at \"$16.76\" by it. The top replies push back. One says \"They are not guiding for eps growth of 47.5% beyond 2027. PEG is below one but not 0.39\", and puts expected growth at \"between 25 and 30%\". Another says \"peg is not correct\". The author answers that \"the only thing that matters is 2027 growth\", and those replies were downvoted. The top comment overall is \"This sub is basically a Reddit version of Groundhog Day.\" Single source · the ratios are as posted and were not computed here; the 61-cent and 90-cent guides are Verified against the Q3 release in the last entry",
+              "status": "single-source",
+              "status_html": "<p>Single source · the ratios are as posted and were not computed here; the 61-cent and 90-cent guides are <strong>Verified</strong> against the Q3 release in the last entry</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A bear's fair-value post raises its figure to $13.58 from $11.46 and scores the quarter &quot;1 of 5 green&quot;.</strong>",
+              "html": "<p><strong>A bear's fair-value post raises its figure to $13.58 from $11.46 and scores the quarter &quot;1 of 5 green&quot;.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1xktzxj/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a>, at 0 points, set five lines before the print. It says SoFi missed four of them: all-in charge-offs of &quot;3.4%&quot; against a 3.0% line, Tech Platform revenue &quot;−24%&quot;, diluted shares &quot;up ~7.5% in a year&quot; against 5%, and Loan Platform yield &quot;~4%&quot; against 5%+. Only ROTCE of &quot;~10%&quot; passed. It argues a price of &quot;~2.25x tangible book&quot; needs &quot;roughly 21% ROTCE&quot;, gives scenarios of $7.15, $13.60 and $19.95, and says the author holds no position. The comments are dismissive (&quot;Cool story bro.&quot;) and engage none of its figures. The author's own reply links a YouTube video and a paid-newsletter site.</p>",
+              "text": "A bear's fair-value post raises its figure to $13.58 from $11.46 and scores the quarter \"1 of 5 green\". The post , at 0 points, set five lines before the print. It says SoFi missed four of them: all-in charge-offs of \"3.4%\" against a 3.0% line, Tech Platform revenue \"−24%\", diluted shares \"up ~7.5% in a year\" against 5%, and Loan Platform yield \"~4%\" against 5%+. Only ROTCE of \"~10%\" passed. It argues a price of \"~2.25x tangible book\" needs \"roughly 21% ROTCE\", gives scenarios of $7.15, $13.60 and $19.95, and says the author holds no position. The comments are dismissive (\"Cool story bro.\") and engage none of its figures. The author's own reply links a YouTube video and a paid-newsletter site. Single source · the −24% Tech Platform figure is Verified against the Q3 release (see the last entry); the charge-off, share-count, yield and ROTCE figures are as posted and were not checked; the post doubles as promotion",
+              "status": "single-source",
+              "status_html": "<p>Single source · the −24% Tech Platform figure is <strong>Verified</strong> against the Q3 release (see the last entry); the charge-off, share-count, yield and ROTCE figures are as posted and were not checked; the post doubles as promotion</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The stock closed at $16.76 on 30 October, down 4.83% from $17.61 the day before.</strong>",
+              "html": "<p><strong>The stock closed at $16.76 on 30 October, down 4.83% from $17.61 the day before.</strong> That is still above the $16 the chats said &quot;We are never seeing… again&quot;. The <a href=\"https://www.reddit.com/r/sofistock/comments/1xj8gr0/\" target=\"_blank\" rel=\"noopener noreferrer\">30 October chat</a> blames the market, not SoFi: &quot;Shitty day but nothing really to do with SoFi. Market is getting destroyed.&quot; Another member posts &quot;SoFi up 14% this week, Hood down 14%&quot;, which was not checked.</p>",
+              "text": "The stock closed at $16.76 on 30 October, down 4.83% from $17.61 the day before. That is still above the $16 the chats said \"We are never seeing… again\". The 30 October chat blames the market, not SoFi: \"Shitty day but nothing really to do with SoFi. Market is getting destroyed.\" Another member posts \"SoFi up 14% this week, Hood down 14%\", which was not checked. Verified against stockanalysis.com's SOFI quote at the 30 October close",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's SOFI quote</a> at the 30 October close</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Noto's interview with Tevis, a YouTuber who streams about SoFi, is the run's biggest new topic, and the reaction is about Noto's delivery, not anything he said.</strong>",
+              "html": "<p><strong>Noto's interview with Tevis, a YouTuber who streams about SoFi, is the run's biggest new topic, and the reaction is about Noto's delivery, not anything he said.</strong> Two link posts (<a href=\"https://www.reddit.com/r/sofistock/comments/1xj1k7n/\" target=\"_blank\" rel=\"noopener noreferrer\">1</a>, <a href=\"https://www.reddit.com/r/sofistock/comments/1xiu9i4/\" target=\"_blank\" rel=\"noopener noreferrer\">2</a>) at 70 and 48 points carry only reaction. In the 30 October chat a member says Noto &quot;had to pause to not be emotional&quot;, and the weekend chat wants him &quot;speaking with the passion that he had while interviewing with Tevis every time he talks&quot;. No thread quotes anything he said about the business, so the interview's content is not covered here.</p>",
+              "text": "Noto's interview with Tevis, a YouTuber who streams about SoFi, is the run's biggest new topic, and the reaction is about Noto's delivery, not anything he said. Two link posts ( 1 , 2 ) at 70 and 48 points carry only reaction. In the 30 October chat a member says Noto \"had to pause to not be emotional\", and the weekend chat wants him \"speaking with the passion that he had while interviewing with Tevis every time he talks\". No thread quotes anything he said about the business, so the interview's content is not covered here.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The 29 October chat read the stock holding up as a sign of strength.</strong>",
+              "html": "<p><strong>The 29 October chat read the stock holding up as a sign of strength.</strong> Members note &quot;GOOG is down 12%, ServiceNow is down 24%... and we're somehow up and holding?&quot; and &quot;I feel a rotation coming in soon&quot;. None of those peer moves was checked. A self-described account holder calls SoFi Earn &quot;a game changer&quot;. One member asks why the 11 December option chain only goes up to the &quot;$19.50 strike&quot; and gets no answer.</p>",
+              "text": "The 29 October chat read the stock holding up as a sign of strength. Members note \"GOOG is down 12%, ServiceNow is down 24%... and we're somehow up and holding?\" and \"I feel a rotation coming in soon\". None of those peer moves was checked. A self-described account holder calls SoFi Earn \"a game changer\". One member asks why the 11 December option chain only goes up to the \"$19.50 strike\" and gets no answer.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The countdown comment has moved its next date to late January.</strong>",
+              "html": "<p><strong>The countdown comment has moved its next date to late January.</strong> It reads &quot;88 day until Q4 earnings&quot; on 31 October. The fair-value post says &quot;expected January 28, 2027&quot;. SoFi has not announced the date. Two calendar sites infer 29 January 2027.</p>",
+              "text": "The countdown comment has moved its next date to late January. It reads \"88 day until Q4 earnings\" on 31 October. The fair-value post says \"expected January 28, 2027\". SoFi has not announced the date. Two calendar sites infer 29 January 2027. Unconfirmed · no SoFi release found; Wall Street Horizon marks its 29 January date as \"INFERRED\"",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · no SoFi release found; <a href=\"https://www.wallstreethorizon.com/sofi-earnings-calendar\" target=\"_blank\" rel=\"noopener noreferrer\">Wall Street Horizon</a> marks its 29 January date as &quot;INFERRED&quot;</p>",
+              "updated": null,
+              "sources": [
+                "wallstreethorizon.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock.",
+              "html": "<p><strong>Read:</strong> sofistock. <strong>Sources checked:</strong> SoFi's SEC filings, through <a href=\"https://data.sec.gov/submissions/CIK0001818874.json\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's submissions feed</a>, which lists nothing after the 27 October 8-K, so the Q3 10-Q has not been filed yet. SoFi's investor news page again returned an empty &quot;Loading&quot; template. A web search and <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's news feed</a> found no company news after 28 October.</p>",
+              "text": "Read: sofistock. Sources checked: SoFi's SEC filings, through EDGAR's submissions feed , which lists nothing after the 27 October 8-K, so the Q3 10-Q has not been filed yet. SoFi's investor news page again returned an empty \"Loading\" template. A web search and stockanalysis.com's news feed found no company news after 28 October.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none.</p>",
+              "text": "Announced, not discussed: none. Verified against EDGAR's submissions feed",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://data.sec.gov/submissions/CIK0001818874.json\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's submissions feed</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "title": "SoFi stock digest",
@@ -1422,8 +1565,8 @@
       "items": [
         {
           "headline": "<strong>Full-year 2026 guidance, as raised with Q3 results on 27 October 2026:</strong> adjusted net revenue of about $5.04 billion, adjusted EBITDA of about $1.66 billion, adjusted net income of about $840 million, adjusted…",
-          "html": "<p><strong>Full-year 2026 guidance, as raised with Q3 results on 27 October 2026:</strong> adjusted net revenue of about $5.04 billion, adjusted EBITDA of about $1.66 billion, adjusted net income of about $840 million, adjusted EPS of about 61 cents, and member growth of at least 30%. With Q2 results the revenue guide was &quot;approximately $4.75 billion to $4.85 billion&quot;, with $825 million and 60 cents. The Q3 release says it &quot;continues to expect&quot; $840 million and 61 cents, so a raise between the two reports may have been missed; reconcile when next checked. Check against the Q4 release, whose date has not been announced.</p>",
-          "text": "Full-year 2026 guidance, as raised with Q3 results on 27 October 2026: adjusted net revenue of about $5.04 billion, adjusted EBITDA of about $1.66 billion, adjusted net income of about $840 million, adjusted EPS of about 61 cents, and member growth of at least 30%. With Q2 results the revenue guide was \"approximately $4.75 billion to $4.85 billion\", with $825 million and 60 cents. The Q3 release says it \"continues to expect\" $840 million and 61 cents, so a raise between the two reports may have been missed; reconcile when next checked. Check against the Q4 release, whose date has not been announced. Verified against the Q3 2026 release and the Q2 2026 release · 2026-10-29",
+          "html": "<p><strong>Full-year 2026 guidance, as raised with Q3 results on 27 October 2026:</strong> adjusted net revenue of about $5.04 billion, adjusted EBITDA of about $1.66 billion, adjusted net income of about $840 million, adjusted EPS of about 61 cents, and member growth of at least 30%. With Q2 results the revenue guide was &quot;approximately $4.75 billion to $4.85 billion&quot;, with $825 million and 60 cents. The Q3 release says it &quot;continues to expect&quot; $840 million and 61 cents, so a raise between the two reports may have been missed; reconcile when next checked. Check against the Q4 release, whose date has not been announced. A member's post gives 28 January 2027 and calendar sites infer 29 January; neither comes from SoFi.</p>",
+          "text": "Full-year 2026 guidance, as raised with Q3 results on 27 October 2026: adjusted net revenue of about $5.04 billion, adjusted EBITDA of about $1.66 billion, adjusted net income of about $840 million, adjusted EPS of about 61 cents, and member growth of at least 30%. With Q2 results the revenue guide was \"approximately $4.75 billion to $4.85 billion\", with $825 million and 60 cents. The Q3 release says it \"continues to expect\" $840 million and 61 cents, so a raise between the two reports may have been missed; reconcile when next checked. Check against the Q4 release, whose date has not been announced. A member's post gives 28 January 2027 and calendar sites infer 29 January; neither comes from SoFi. Verified against the Q3 2026 release and the Q2 2026 release · 2026-10-29",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000065/a2026q3earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 2026 release</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000050/a2026q2earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q2 2026 release</a> · 2026-10-29</p>",
           "updated": "2026-10-29",
@@ -1476,10 +1619,10 @@
         {
           "headline": "<strong>The 0% convertible notes due 2026 matured on 15 October 2026; how they were settled is not yet disclosed.</strong>",
           "html": "<p><strong>The 0% convertible notes due 2026 matured on 15 October 2026; how they were settled is not yet disclosed.</strong> The Q3 release mentions only &quot;2026 and 2029 convertible notes&quot; in its adjusted-EPS dilution exclusion, and says nothing about settlement. The sub circulated a YouTube host's early-repurchase theory, which cannot apply to matured notes, and an outstanding figure of about $428 million that was not confirmed. Check the Q3 10-Q debt note for the settlement (cash, shares or both).</p>",
-          "text": "The 0% convertible notes due 2026 matured on 15 October 2026; how they were settled is not yet disclosed. The Q3 release mentions only \"2026 and 2029 convertible notes\" in its adjusted-EPS dilution exclusion, and says nothing about settlement. The sub circulated a YouTube host's early-repurchase theory, which cannot apply to matured notes, and an outstanding figure of about $428 million that was not confirmed. Check the Q3 10-Q debt note for the settlement (cash, shares or both). Verified maturity date against the 2021 pricing release ; no 10-Q filed as of 2026-10-29; the $428 million is Unconfirmed · 2026-10-29",
+          "text": "The 0% convertible notes due 2026 matured on 15 October 2026; how they were settled is not yet disclosed. The Q3 release mentions only \"2026 and 2029 convertible notes\" in its adjusted-EPS dilution exclusion, and says nothing about settlement. The sub circulated a YouTube host's early-repurchase theory, which cannot apply to matured notes, and an outstanding figure of about $428 million that was not confirmed. Check the Q3 10-Q debt note for the settlement (cash, shares or both). Verified maturity date against the 2021 pricing release ; no 10-Q filed as of 2026-11-01, per EDGAR's submissions feed; the $428 million is Unconfirmed · 2026-11-01",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> maturity date against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887421000057/exhibit991form9302021prici.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 2021 pricing release</a>; no 10-Q filed as of 2026-10-29; the $428 million is <strong>Unconfirmed</strong> · 2026-10-29</p>",
-          "updated": "2026-10-29",
+          "status_html": "<p><strong>Verified</strong> maturity date against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887421000057/exhibit991form9302021prici.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 2021 pricing release</a>; no 10-Q filed as of 2026-11-01, per EDGAR's submissions feed; the $428 million is <strong>Unconfirmed</strong> · 2026-11-01</p>",
+          "updated": "2026-11-01",
           "sources": [
             "SEC filing"
           ],
