@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01",
+  "generated": "2026-11-06",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,217 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-06",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>The five days since the last run produced one new discussion post and no DD. The daily chats followed the stock through the 3 November midterms and a broad sell-off on 5 November. The one material event is the Q3 10-Q, filed on 5 November, which no thread mentioned. It answers the question the last two entries left open: how the 2026 convertible notes were settled.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Q3 10-Q shows SoFi paid off its 2026 convertible notes entirely in cash, so their maturity issued no new shares.</strong>",
+              "html": "<p><strong>The Q3 10-Q shows SoFi paid off its 2026 convertible notes entirely in cash, so their maturity issued no new shares.</strong> The quarterly report filed on 5 November says the notes that matured on 15 October were settled in cash.</p>\n<ul>\n<li><strong>Why it matters:</strong> The sub had argued for weeks over whether the maturity would dilute shareholders, and had circulated an unconfirmed outstanding figure and a YouTube host's early-repurchase theory. The filing settles both: the principal was paid in cash, with no buyback before maturity.</li>\n<li><strong>What to watch:</strong> The 2029 convertible notes are the convertible debt that remains, at $862.5 million of principal in the 10-Q's debt table. Q4 results, whose date SoFi has not announced.</li>\n<li><strong>Numbers:</strong> The filing gives &quot;$428.0 million aggregate principal amount&quot; outstanding at maturity, settled &quot;entirely in cash&quot; (filing). This confirms the $428 million the sub circulated. It also says &quot;the associated 2026 capped calls expired unexercised and without value&quot; (filing). The most recent repurchases it describes are from August 2024 (filing).</li>\n<li><strong>Caveats:</strong> Only the debt and subsequent-events notes were read, not the whole 10-Q, so where the cash came from was not checked. No thread on the sub has picked the filing up yet.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000070/R24.htm\" target=\"_blank\" rel=\"noopener noreferrer\">The 10-Q's subsequent-events note</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000070/R15.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the debt note</a>.</li>\n</ul>",
+              "text": "The Q3 10-Q shows SoFi paid off its 2026 convertible notes entirely in cash, so their maturity issued no new shares. The quarterly report filed on 5 November says the notes that matured on 15 October were settled in cash. Why it matters: The sub had argued for weeks over whether the maturity would dilute shareholders, and had circulated an unconfirmed outstanding figure and a YouTube host's early-repurchase theory. The filing settles both: the principal was paid in cash, with no buyback before maturity. What to watch: The 2029 convertible notes are the convertible debt that remains, at $862.5 million of principal in the 10-Q's debt table. Q4 results, whose date SoFi has not announced. Numbers: The filing gives \"$428.0 million aggregate principal amount\" outstanding at maturity, settled \"entirely in cash\" (filing). This confirms the $428 million the sub circulated. It also says \"the associated 2026 capped calls expired unexercised and without value\" (filing). The most recent repurchases it describes are from August 2024 (filing). Caveats: Only the debt and subsequent-events notes were read, not the whole 10-Q, so where the cash came from was not checked. No thread on the sub has picked the filing up yet. Read next: The 10-Q's subsequent-events note , then the debt note . Verified against the Q3 2026 10-Q , filed 2026-11-05",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000070/sofi-20260930.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 2026 10-Q</a>, filed 2026-11-05</p>",
+              "updated": "2026-11-05",
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>SoFi management met investors virtually at an Oppenheimer-hosted session on 3 November.</strong>",
+              "html": "<p><strong>SoFi management met investors virtually at an Oppenheimer-hosted session on 3 November.</strong> A member posted <a href=\"https://www.tipranks.com/news/the-fly/sofi-technologies-management-to-meet-virtually-with-oppenheimer-thefly-news\" target=\"_blank\" rel=\"noopener noreferrer\">the TheFly headline</a> in the <a href=\"https://www.reddit.com/r/sofistock/comments/1xmn4vp/\" target=\"_blank\" rel=\"noopener noreferrer\">3 November chat</a> and asked &quot;Are we going to get good rating from Oppenheimer?&quot; No rating action followed in the window.</p>",
+              "text": "SoFi management met investors virtually at an Oppenheimer-hosted session on 3 November. A member posted the TheFly headline in the 3 November chat and asked \"Are we going to get good rating from Oppenheimer?\" No rating action followed in the window. Reported · the TheFly headline as listed on stockanalysis.com ; no SoFi release covers it",
+              "status": "reported",
+              "status_html": "<p>Reported · the TheFly headline as listed on <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com</a>; no SoFi release covers it</p>",
+              "updated": null,
+              "sources": [
+                "tipranks.com",
+                "r/sofistock",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Fundamentals and valuation",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The stock closed at $16.04 on 5 November, down 7.71% in a day, and the chats blamed the wider market.</strong>",
+              "html": "<p><strong>The stock closed at $16.04 on 5 November, down 7.71% in a day, and the chats blamed the wider market.</strong> One member summed up the two days as &quot;Yesterday was a “all the bad stuff is gonna stop” rally. Today is the “that’s a pipe dream” fall.&quot; Others read it as AI-led: &quot;The AI bubble has started bursting. Neoclouds are massacred.&quot; In the <a href=\"https://www.reddit.com/r/sofistock/comments/1xod27j/\" target=\"_blank\" rel=\"noopener noreferrer\">5 November chat</a> one member says &quot;we filled the earnings gap on fairly low volume&quot; and gives &quot;TBV is $9.7B and TBV/share $7.48&quot;. Another says &quot;Today P/E fell below 30&quot;.</p>",
+              "text": "The stock closed at $16.04 on 5 November, down 7.71% in a day, and the chats blamed the wider market. One member summed up the two days as \"Yesterday was a “all the bad stuff is gonna stop” rally. Today is the “that’s a pipe dream” fall.\" Others read it as AI-led: \"The AI bubble has started bursting. Neoclouds are massacred.\" In the 5 November chat one member says \"we filled the earnings gap on fairly low volume\" and gives \"TBV is $9.7B and TBV/share $7.48\". Another says \"Today P/E fell below 30\". the close is Verified against stockanalysis.com's SOFI quote at the 5 November close; the tangible book and P/E figures are Single source, as posted, and were not checked",
+              "status": "verified",
+              "status_html": "<p>the close is <strong>Verified</strong> against <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's SOFI quote</a> at the 5 November close; the tangible book and P/E figures are Single source, as posted, and were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The chats treated the 3 November midterms as the week's catalyst.</strong>",
+              "html": "<p><strong>The chats treated the 3 November midterms as the week's catalyst.</strong> They went from &quot;Go Vote today! The stock market is waiting for your decision&quot; on 3 November, to &quot;Finally midterms out... stocks can rise&quot; and &quot;time for the end of year rally&quot; on 4 November, to &quot;Absolutely brutal, getting roasted across the board lately&quot; on 5 November. The macro readings in these threads were not checked.</p>",
+              "text": "The chats treated the 3 November midterms as the week's catalyst. They went from \"Go Vote today! The stock market is waiting for your decision\" on 3 November, to \"Finally midterms out... stocks can rise\" and \"time for the end of year rally\" on 4 November, to \"Absolutely brutal, getting roasted across the board lately\" on 5 November. The macro readings in these threads were not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>S&amp;P 500 inclusion is back as a talking point.</strong>",
+              "html": "<p><strong>S&amp;P 500 inclusion is back as a talking point.</strong> &quot;I think SoFi gets into the sp500 in 2027&quot; was the top comment on 4 November. Another member claimed the stock &quot;hits resistance right at the SP500 inclusion market cap level (which translates to a stock price of the $17.50 - $17.75 range)&quot;. The reply: &quot;It's amazing enough to make me suddenly very interested in the hobby of tinfoil hat folding.&quot;</p>",
+              "text": "S&P 500 inclusion is back as a talking point. \"I think SoFi gets into the sp500 in 2027\" was the top comment on 4 November. Another member claimed the stock \"hits resistance right at the SP500 inclusion market cap level (which translates to a stock price of the $17.50 - $17.75 range)\". The reply: \"It's amazing enough to make me suddenly very interested in the hobby of tinfoil hat folding.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The one new discussion post, <a href=\"https://www.reddit.com/r/sofistock/comments/1xot8jh/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;SoFi long-term&quot;</a>, asks whether SoFi can keep growing &quot;+20% CAGR for DECADES (like Anthony Noto claimed)&quot;.</strong>",
+              "html": "<p><strong>The one new discussion post, <a href=\"https://www.reddit.com/r/sofistock/comments/1xot8jh/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;SoFi long-term&quot;</a>, asks whether SoFi can keep growing &quot;+20% CAGR for DECADES (like Anthony Noto claimed)&quot;.</strong> The replies are long-dated price targets with no model behind them. The one sceptic says SoFi is &quot;both a fintech and a chartered bank. Both are difficult spaces to dominate.&quot; The Noto quote was not looked up.</p>",
+              "text": "The one new discussion post, \"SoFi long-term\" , asks whether SoFi can keep growing \"+20% CAGR for DECADES (like Anthony Noto claimed)\". The replies are long-dated price targets with no model behind them. The one sceptic says SoFi is \"both a fintech and a chartered bank. Both are difficult spaces to dominate.\" The Noto quote was not looked up.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The countdown comment reads &quot;82 day until Q4 earnings&quot; on 6 November.</strong>",
+              "html": "<p><strong>The countdown comment reads &quot;82 day until Q4 earnings&quot; on 6 November.</strong> That still points to late January, and SoFi has still not announced a date.</p>",
+              "text": "The countdown comment reads \"82 day until Q4 earnings\" on 6 November. That still points to late January, and SoFi has still not announced a date.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Two members posted that Truist raised its SoFi target to $17 from $16 on 3 November.</strong>",
+              "html": "<p><strong>Two members posted that Truist raised its SoFi target to $17 from $16 on 3 November.</strong> One posted a link and the other the headline text, in the <a href=\"https://www.reddit.com/r/sofistock/comments/1xmn4vp/\" target=\"_blank\" rel=\"noopener noreferrer\">3 November</a> and <a href=\"https://www.reddit.com/r/sofistock/comments/1xnikcm/\" target=\"_blank\" rel=\"noopener noreferrer\">4 November</a> chats. A web search found Truist's $17 cut in May 2026 and its raise to $18 in July 2026, but no November note. The tracker's last-known Truist target is $16.</p>",
+              "text": "Two members posted that Truist raised its SoFi target to $17 from $16 on 3 November. One posted a link and the other the headline text, in the 3 November and 4 November chats. A web search found Truist's $17 cut in May 2026 and its raise to $18 in July 2026, but no November note. The tracker's last-known Truist target is $16. Unconfirmed · searched for secondary coverage; stockanalysis.com's news feed lists no Truist headline in the window",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · searched for secondary coverage; <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's news feed</a> lists no Truist headline in the window</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A member asked why SoFiUSD's market cap had &quot;dropped significantly&quot; over a few days, guessing at a Binance hack.</strong>",
+              "html": "<p><strong>A member asked why SoFiUSD's market cap had &quot;dropped significantly&quot; over a few days, guessing at a Binance hack.</strong> The only reply pointed to an AMA with a SoFi Crypto product manager on r/sofi. Nothing in the thread explains the drop.</p>",
+              "text": "A member asked why SoFiUSD's market cap had \"dropped significantly\" over a few days, guessing at a Binance hack. The only reply pointed to an AMA with a SoFi Crypto product manager on r/sofi. Nothing in the thread explains the drop. Single source · the market-cap move was not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the market-cap move was not checked</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock (13 hot posts; the daily chats for 2 to 6 November and the one new discussion post; everything else was covered in the last two…",
+              "html": "<p><strong>Read:</strong> sofistock (13 hot posts; the daily chats for 2 to 6 November and the one new discussion post; everything else was covered in the last two entries). <strong>Sources checked:</strong> SoFi's SEC filings, through <a href=\"https://data.sec.gov/submissions/CIK0001818874.json\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's submissions feed</a>, which lists the 10-Q on 5 November and a Form 4 on 3 November. SoFi's investor news page again returned an empty &quot;Loading&quot; template. A web search and <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's news feed</a> found no SoFi press release after 28 October.</p>",
+              "text": "Read: sofistock (13 hot posts; the daily chats for 2 to 6 November and the one new discussion post; everything else was covered in the last two entries). Sources checked: SoFi's SEC filings, through EDGAR's submissions feed , which lists the 10-Q on 5 November and a Form 4 on 3 November. SoFi's investor news page again returned an empty \"Loading\" template. A web search and stockanalysis.com's news feed found no SoFi press release after 28 October.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> the Q3 10-Q, covered under Must know; a Form 4 for director John Hele, reporting a grant of 15,880 RSUs on 19 October that vests monthly…",
+              "html": "<p><strong>Announced, not discussed:</strong> the Q3 10-Q, covered under Must know; <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000146083526000004/wk-form4_1793754228.xml\" target=\"_blank\" rel=\"noopener noreferrer\">a Form 4</a> for director John Hele, reporting a grant of 15,880 RSUs on 19 October that vests monthly over 12 months from 14 November, which is a routine director award rather than a purchase or sale.</p>",
+              "text": "Announced, not discussed: the Q3 10-Q, covered under Must know; a Form 4 for director John Hele, reporting a grant of 15,880 RSUs on 19 October that vests monthly over 12 months from 14 November, which is a routine director award rather than a purchase or sale. Verified against EDGAR's submissions feed and the filings themselves",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://data.sec.gov/submissions/CIK0001818874.json\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's submissions feed</a> and the filings themselves</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-11-01 to 2026-11-06; official sources were checked for that window.",
+              "html": "<p>Hot lists could not cover 2026-11-01 to 2026-11-06; official sources were checked for that window.</p>",
+              "text": "Hot lists could not cover 2026-11-01 to 2026-11-06; official sources were checked for that window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-01",
       "title": "SoFi stock digest",
@@ -1604,11 +1815,11 @@
         },
         {
           "headline": "<strong>Sell-side targets after Q3, all raised: StoneX $27 (Buy), Scotiabank $26 (Sector Outperform), UBS $22 (Neutral), Monness Crespi $22 (Buy, initiated at $20 on or about 26 October), Goldman Sachs $18, TD Cowen $18, Wells Fargo $18, KBW $16 (Underperform). Truist stays at $16, cut two days before the print.</strong>",
-          "html": "<p><strong>Sell-side targets after Q3, all raised: StoneX $27 (Buy), Scotiabank $26 (Sector Outperform), UBS $22 (Neutral), Monness Crespi $22 (Buy, initiated at $20 on or about 26 October), Goldman Sachs $18, TD Cowen $18, Wells Fargo $18, KBW $16 (Underperform). Truist stays at $16, cut two days before the print.</strong> Members put Citi at $30. Kept as a record of what was published, not as a forecast. The sub reads bearish targets as price floors, which they are not.</p>",
-          "text": "Sell-side targets after Q3, all raised: StoneX $27 (Buy), Scotiabank $26 (Sector Outperform), UBS $22 (Neutral), Monness Crespi $22 (Buy, initiated at $20 on or about 26 October), Goldman Sachs $18, TD Cowen $18, Wells Fargo $18, KBW $16 (Underperform). Truist stays at $16, cut two days before the print. Members put Citi at $30. Kept as a record of what was published, not as a forecast. The sub reads bearish targets as price floors, which they are not. Reported · TheFly headlines on stockanalysis.com ; StoneX's and KBW's pre-print calls Verified against CNBC and StreetInsider; Citi's $30 is Single source; none of the notes is public · 2026-10-29",
+          "html": "<p><strong>Sell-side targets after Q3, all raised: StoneX $27 (Buy), Scotiabank $26 (Sector Outperform), UBS $22 (Neutral), Monness Crespi $22 (Buy, initiated at $20 on or about 26 October), Goldman Sachs $18, TD Cowen $18, Wells Fargo $18, KBW $16 (Underperform). Truist stays at $16, cut two days before the print.</strong> Members put Citi at $30. On 3 November two members posted that Truist raised to $17 from $16; no secondary coverage of that note was found. Kept as a record of what was published, not as a forecast. The sub reads bearish targets as price floors, which they are not.</p>",
+          "text": "Sell-side targets after Q3, all raised: StoneX $27 (Buy), Scotiabank $26 (Sector Outperform), UBS $22 (Neutral), Monness Crespi $22 (Buy, initiated at $20 on or about 26 October), Goldman Sachs $18, TD Cowen $18, Wells Fargo $18, KBW $16 (Underperform). Truist stays at $16, cut two days before the print. Members put Citi at $30. On 3 November two members posted that Truist raised to $17 from $16; no secondary coverage of that note was found. Kept as a record of what was published, not as a forecast. The sub reads bearish targets as price floors, which they are not. Reported · TheFly headlines on stockanalysis.com ; StoneX's and KBW's pre-print calls Verified against CNBC and StreetInsider; Citi's $30 is Single source; Truist's reported $17 is Unconfirmed ; none of the notes is public · 2026-11-06",
           "status": "reported",
-          "status_html": "<p>Reported · TheFly headlines on <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com</a>; StoneX's and KBW's pre-print calls <strong>Verified</strong> against <a href=\"https://www.cnbc.com/2026/10/13/sofi-stock-stonex-buy-rating.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and StreetInsider; Citi's $30 is Single source; none of the notes is public · 2026-10-29</p>",
-          "updated": "2026-10-29",
+          "status_html": "<p>Reported · TheFly headlines on <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com</a>; StoneX's and KBW's pre-print calls <strong>Verified</strong> against <a href=\"https://www.cnbc.com/2026/10/13/sofi-stock-stonex-buy-rating.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and StreetInsider; Citi's $30 is Single source; Truist's reported $17 is <strong>Unconfirmed</strong>; none of the notes is public · 2026-11-06</p>",
+          "updated": "2026-11-06",
           "sources": [
             "stockanalysis.com",
             "CNBC"
@@ -1617,12 +1828,12 @@
           "due_label": null
         },
         {
-          "headline": "<strong>The 0% convertible notes due 2026 matured on 15 October 2026; how they were settled is not yet disclosed.</strong>",
-          "html": "<p><strong>The 0% convertible notes due 2026 matured on 15 October 2026; how they were settled is not yet disclosed.</strong> The Q3 release mentions only &quot;2026 and 2029 convertible notes&quot; in its adjusted-EPS dilution exclusion, and says nothing about settlement. The sub circulated a YouTube host's early-repurchase theory, which cannot apply to matured notes, and an outstanding figure of about $428 million that was not confirmed. Check the Q3 10-Q debt note for the settlement (cash, shares or both).</p>",
-          "text": "The 0% convertible notes due 2026 matured on 15 October 2026; how they were settled is not yet disclosed. The Q3 release mentions only \"2026 and 2029 convertible notes\" in its adjusted-EPS dilution exclusion, and says nothing about settlement. The sub circulated a YouTube host's early-repurchase theory, which cannot apply to matured notes, and an outstanding figure of about $428 million that was not confirmed. Check the Q3 10-Q debt note for the settlement (cash, shares or both). Verified maturity date against the 2021 pricing release ; no 10-Q filed as of 2026-11-01, per EDGAR's submissions feed; the $428 million is Unconfirmed · 2026-11-01",
+          "headline": "<strong>The 0% convertible notes due 2026 matured on 15 October 2026 and were settled entirely in cash, so they issued no shares.</strong>",
+          "html": "<p><strong>The 0% convertible notes due 2026 matured on 15 October 2026 and were settled entirely in cash, so they issued no shares.</strong> The Q3 10-Q gives $428.0 million of principal outstanding at maturity, confirming the figure the sub circulated, and says the 2026 capped calls &quot;expired unexercised and without value&quot;. The YouTube host's early-repurchase theory is contradicted: the last repurchases the filing describes were in August 2024. The remaining convertible debt is the 2029 notes, at $862.5 million of principal in the debt table. Kept as a reference for the sub's recurring dilution argument; delete once that stops coming up.</p>",
+          "text": "The 0% convertible notes due 2026 matured on 15 October 2026 and were settled entirely in cash, so they issued no shares. The Q3 10-Q gives $428.0 million of principal outstanding at maturity, confirming the figure the sub circulated, and says the 2026 capped calls \"expired unexercised and without value\". The YouTube host's early-repurchase theory is contradicted: the last repurchases the filing describes were in August 2024. The remaining convertible debt is the 2029 notes, at $862.5 million of principal in the debt table. Kept as a reference for the sub's recurring dilution argument; delete once that stops coming up. Verified against the Q3 2026 10-Q's subsequent-events note and debt note , filed 2026-11-05 · 2026-11-06",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> maturity date against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887421000057/exhibit991form9302021prici.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 2021 pricing release</a>; no 10-Q filed as of 2026-11-01, per EDGAR's submissions feed; the $428 million is <strong>Unconfirmed</strong> · 2026-11-01</p>",
-          "updated": "2026-11-01",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000070/R24.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 2026 10-Q's subsequent-events note</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000070/R15.htm\" target=\"_blank\" rel=\"noopener noreferrer\">debt note</a>, filed 2026-11-05 · 2026-11-06</p>",
+          "updated": "2026-11-06",
           "sources": [
             "SEC filing"
           ],
