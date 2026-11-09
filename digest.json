@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-09",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,151 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-09",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>A quiet run. Hot held no new discussion posts, only the daily chats for 6 and 9 November and the weekend chat, and nothing was filed or announced since the 10-Q on 5 November. No story qualified for Must know: there are no results, filings or company announcements in the window, and no single topic dominated the sub. The one piece of substance is an AP story, linked in the 6 November chat, on federal student-loan caps pushing borrowers toward private lenders such as SoFi.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>An AP story says new federal student-loan caps are steering borrowers to private lenders, and it cites SoFi's Q3 student-loan volume.</strong>",
+              "html": "<p><strong>An AP story says new federal student-loan caps are steering borrowers to private lenders, and it cites SoFi's Q3 student-loan volume.</strong> A member linked it in the <a href=\"https://www.reddit.com/r/sofistock/comments/1xp7b6p/\" target=\"_blank\" rel=\"noopener noreferrer\">6 November chat</a> with &quot;Let's go SoFi!&quot;, and nobody replied. The story, dated 6 November, says caps that &quot;took effect this fall&quot; limit professional-degree programs to $200,000 and other graduate programs to $100,000, with a lifetime cap of $257,500 for new borrowers and new limits on parent borrowing. It quotes an analyst's estimate that once fully phased in, &quot;more than half a million borrowers are going to need to borrow an extra $20,000 a year&quot; from outside the federal program, and a rival lender saying the number who truly can't find an option is smaller than feared. It reports SoFi's Q3 student-loan originations as &quot;$2.9 billion&quot;, &quot;nearly doubling from a year earlier&quot;.</p>",
+              "text": "An AP story says new federal student-loan caps are steering borrowers to private lenders, and it cites SoFi's Q3 student-loan volume. A member linked it in the 6 November chat with \"Let's go SoFi!\", and nobody replied. The story, dated 6 November, says caps that \"took effect this fall\" limit professional-degree programs to $200,000 and other graduate programs to $100,000, with a lifetime cap of $257,500 for new borrowers and new limits on parent borrowing. It quotes an analyst's estimate that once fully phased in, \"more than half a million borrowers are going to need to borrow an extra $20,000 a year\" from outside the federal program, and a rival lender saying the number who truly can't find an option is smaller than feared. It reports SoFi's Q3 student-loan originations as \"$2.9 billion\", \"nearly doubling from a year earlier\". the $2.9 billion is Verified against the Q3 release , which gives $2,922 million, up 96% year over year; the caps and the analyst's estimate are Reported from the AP story as republished by WCAX and were not checked against the law",
+              "status": "verified",
+              "status_html": "<p>the $2.9 billion is <strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000065/a2026q3earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 release</a>, which gives $2,922 million, up 96% year over year; the caps and the analyst's estimate are Reported from <a href=\"https://www.wcax.com/2026/11/06/new-limits-federal-student-loans-are-steering-many-borrowers-toward-private-lenders/\" target=\"_blank\" rel=\"noopener noreferrer\">the AP story as republished by WCAX</a> and were not checked against the law</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "SEC filing",
+                "wcax.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Fundamentals and valuation",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The stock closed at $16.21 on 6 November, up 1.06% after the previous day's 7.71% fall.</strong>",
+              "html": "<p><strong>The stock closed at $16.21 on 6 November, up 1.06% after the previous day's 7.71% fall.</strong> It was quoted at $16.37 before the open on 9 November. The 6 November chat read the week as a return to old form: &quot;Looks like we are back to the usual shit stock behavior before earnings&quot;, &quot;Dropping like a tech stock but goes up like a bank stock&quot;, and &quot;$16 is the new $6&quot;. On 9 November the running joke came back as &quot;We are never seeing $16 again&quot;.</p>",
+              "text": "The stock closed at $16.21 on 6 November, up 1.06% after the previous day's 7.71% fall. It was quoted at $16.37 before the open on 9 November. The 6 November chat read the week as a return to old form: \"Looks like we are back to the usual shit stock behavior before earnings\", \"Dropping like a tech stock but goes up like a bank stock\", and \"$16 is the new $6\". On 9 November the running joke came back as \"We are never seeing $16 again\". Verified against stockanalysis.com's SOFI quote at 9:06 a.m. Eastern on 9 November",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's SOFI quote</a> at 9:06 a.m. Eastern on 9 November</p>",
+              "updated": null,
+              "sources": [
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Frustration that the stock does not respond to good news is the run's main mood.</strong>",
+              "html": "<p><strong>Frustration that the stock does not respond to good news is the run's main mood.</strong> The 9 November chat's most-upvoted serious comment is &quot;Crazy how literally every bad news drags SoFi down, but the good ones will just keep this shit stock trading sideways.&quot; On 6 November one member expects &quot;further bloodbaths like this very soon&quot;, and another answers the weakness with a chart offered as proof &quot;that DCA is the way&quot;.</p>",
+              "text": "Frustration that the stock does not respond to good news is the run's main mood. The 9 November chat's most-upvoted serious comment is \"Crazy how literally every bad news drags SoFi down, but the good ones will just keep this shit stock trading sideways.\" On 6 November one member expects \"further bloodbaths like this very soon\", and another answers the weakness with a chart offered as proof \"that DCA is the way\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Members say they are seeing more SoFi advertising.</strong>",
+              "html": "<p><strong>Members say they are seeing more SoFi advertising.</strong> &quot;I am seeing lots of sofi ad nowadays&quot; was a reply on 6 November. No spending figure was posted or checked.</p>",
+              "text": "Members say they are seeing more SoFi advertising. \"I am seeing lots of sofi ad nowadays\" was a reply on 6 November. No spending figure was posted or checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>One member who holds several SoFi products says SoFi declined to verify them for a joint account and then an invest account.</strong>",
+              "html": "<p><strong>One member who holds several SoFi products says SoFi declined to verify them for a joint account and then an invest account.</strong> It is a single customer's account in the 9 November chat, with no reply beyond a joke.</p>",
+              "text": "One member who holds several SoFi products says SoFi declined to verify them for a joint account and then an invest account. It is a single customer's account in the 9 November chat, with no reply beyond a joke.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The countdown comment reads &quot;79 days until Q4 earnings&quot; on 9 November.</strong>",
+              "html": "<p><strong>The countdown comment reads &quot;79 days until Q4 earnings&quot; on 9 November.</strong> SoFi has still not announced the date.</p>",
+              "text": "The countdown comment reads \"79 days until Q4 earnings\" on 9 November. SoFi has still not announced the date.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock (12 hot posts; the 6 November, 7–8 November weekend and 9 November chats were fetched; everything else was covered in earlier e…",
+              "html": "<p><strong>Read:</strong> sofistock (12 hot posts; the 6 November, 7–8 November weekend and 9 November chats were fetched; everything else was covered in earlier entries, including <a href=\"https://www.reddit.com/r/sofistock/comments/1xot8jh/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;SoFi long-term&quot;</a> last run). <strong>Sources checked:</strong> SoFi's SEC filings, through the EDGAR browse page, which lists nothing after the 10-Q filed 5 November. EDGAR's submissions feed was not fetched this run, because the command needed an approval this unattended run could not give. SoFi's investor news page again returned an empty &quot;Loading&quot; template. A web search and <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's news feed</a> found no SoFi press release or analyst action after the 3 November Oppenheimer meeting covered last run.</p>",
+              "text": "Read: sofistock (12 hot posts; the 6 November, 7–8 November weekend and 9 November chats were fetched; everything else was covered in earlier entries, including \"SoFi long-term\" last run). Sources checked: SoFi's SEC filings, through the EDGAR browse page, which lists nothing after the 10-Q filed 5 November. EDGAR's submissions feed was not fetched this run, because the command needed an approval this unattended run could not give. SoFi's investor news page again returned an empty \"Loading\" template. A web search and stockanalysis.com's news feed found no SoFi press release or analyst action after the 3 November Oppenheimer meeting covered last run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none.</p>",
+              "text": "Announced, not discussed: none. Verified against EDGAR's filing index for SoFi",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001818874&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for SoFi</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "title": "SoFi stock digest",
@@ -1917,6 +2062,20 @@
           "sources": [
             "Federal Reserve",
             "r/sofistock"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Federal student-loan caps that took effect in fall 2026 are pushing borrowers toward private lenders, and SoFi's student-loan originations nearly doubled in Q3 2026.</strong>",
+          "html": "<p><strong>Federal student-loan caps that took effect in fall 2026 are pushing borrowers toward private lenders, and SoFi's student-loan originations nearly doubled in Q3 2026.</strong> An AP story dated 6 November 2026 gives caps of $200,000 for professional-degree programs, $100,000 for other graduate programs and a $257,500 lifetime cap for new borrowers, and quotes an analyst estimating that &quot;more than half a million borrowers&quot; will need an extra $20,000 a year once the changes are fully phased in. SoFi's Q3 student-loan originations were $2,922 million, up 96% year over year. Check the Q4 release for whether the growth holds.</p>",
+          "text": "Federal student-loan caps that took effect in fall 2026 are pushing borrowers toward private lenders, and SoFi's student-loan originations nearly doubled in Q3 2026. An AP story dated 6 November 2026 gives caps of $200,000 for professional-degree programs, $100,000 for other graduate programs and a $257,500 lifetime cap for new borrowers, and quotes an analyst estimating that \"more than half a million borrowers\" will need an extra $20,000 a year once the changes are fully phased in. SoFi's Q3 student-loan originations were $2,922 million, up 96% year over year. Check the Q4 release for whether the growth holds. the originations are Verified against the Q3 2026 release ; the caps and the estimate are Reported from the AP story · 2026-11-09",
+          "status": "verified",
+          "status_html": "<p>the originations are <strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000181887426000065/a2026q3earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 2026 release</a>; the caps and the estimate are Reported from <a href=\"https://www.wcax.com/2026/11/06/new-limits-federal-student-loans-are-steering-many-borrowers-toward-private-lenders/\" target=\"_blank\" rel=\"noopener noreferrer\">the AP story</a> · 2026-11-09</p>",
+          "updated": "2026-11-09",
+          "sources": [
+            "SEC filing",
+            "wcax.com"
           ],
           "due": null,
           "due_label": null
