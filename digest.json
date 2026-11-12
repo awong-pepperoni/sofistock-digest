@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-12",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,157 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-12",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>Another quiet run, with no filings or SoFi announcements since the 10-Q on 5 November. The sub's two new posts are ARK buying the stock on 9 November and a crypto-press piece on SoFiUSD running on the Monad blockchain, which turns out to describe an August expansion. The chats for 10 to 12 November are about talk of a larger rate hike and a stock that, in members' words, &quot;reacts to everything but its own news&quot;. No story qualified for Must know: there are no results, filings or company announcements in the window, and the ARK purchase is a fund's trade, not a company event.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A crypto-news story says SoFiUSD now runs on the Monad blockchain, with BitGo providing the infrastructure, but the expansion dates from August.</strong>",
+              "html": "<p><strong>A crypto-news story says SoFiUSD now runs on the Monad blockchain, with BitGo providing the infrastructure, but the expansion dates from August.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1xtws1t/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a> links a Crypto Briefing article dated 11 November that calls Monad the token's third chain after Ethereum and Solana, and dates the expansion to &quot;August 2026&quot;. The news hook is a BitGo podcast with a Monad co-founder. The only substantive reply suggests SoFi &quot;just buy BitGo&quot;, calling it &quot;down to $500m marketcap&quot;, and another member asks whether the token is on Coinbase. Neither got an answer.</p>",
+              "text": "A crypto-news story says SoFiUSD now runs on the Monad blockchain, with BitGo providing the infrastructure, but the expansion dates from August. The post links a Crypto Briefing article dated 11 November that calls Monad the token's third chain after Ethereum and Solana, and dates the expansion to \"August 2026\". The news hook is a BitGo podcast with a Monad co-founder. The only substantive reply suggests SoFi \"just buy BitGo\", calling it \"down to $500m marketcap\", and another member asks whether the token is on Coinbase. Neither got an answer. Reported · the Crypto Briefing article has no statement from SoFi; a BitGoJS pull request adding SoFiUSD on Monad mainnet was merged 31 July 2026, which fits the August date; no SoFi release on Monad was found, and BitGo's market cap was not checked",
+              "status": "reported",
+              "status_html": "<p>Reported · <a href=\"https://cryptobriefing.com/bitgo-sofi-usd-stablecoin-monad/\" target=\"_blank\" rel=\"noopener noreferrer\">the Crypto Briefing article</a> has no statement from SoFi; a <a href=\"https://github.com/BitGo/BitGoJS/pull/9390\" target=\"_blank\" rel=\"noopener noreferrer\">BitGoJS pull request</a> adding SoFiUSD on Monad mainnet was merged 31 July 2026, which fits the August date; no SoFi release on Monad was found, and BitGo's market cap was not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "cryptobriefing.com",
+                "GitHub"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Fundamentals and valuation",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>ARK's ARKK and ARKF funds bought SoFi on 9 November, and the sub took it as a bad sign.</strong>",
+              "html": "<p><strong>ARK's ARKK and ARKF funds bought SoFi on 9 November, and the sub took it as a bad sign.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1xsag9m/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a>, at 100 points, is the run's top non-chat thread. A third-party tracker of ARK's daily trades lists buys of $6.1 million in ARKK and $717.1 thousand in ARKF that day, with no share counts. The replies are mostly the running joke that Cathie Wood &quot;always buys at the top&quot; (&quot;It's over&quot;, &quot;We are doomed&quot;). A mod reply says &quot;ARK has purchased before and sold before. I wouldn't make too much of it.&quot; The poster answered one &quot;chasing&quot; comment with &quot;Chasing what? The massive jump from 15 to 16?&quot;</p>",
+              "text": "ARK's ARKK and ARKF funds bought SoFi on 9 November, and the sub took it as a bad sign. The post , at 100 points, is the run's top non-chat thread. A third-party tracker of ARK's daily trades lists buys of $6.1 million in ARKK and $717.1 thousand in ARKF that day, with no share counts. The replies are mostly the running joke that Cathie Wood \"always buys at the top\" (\"It's over\", \"We are doomed\"). A mod reply says \"ARK has purchased before and sold before. I wouldn't make too much of it.\" The poster answered one \"chasing\" comment with \"Chasing what? The massive jump from 15 to 16?\" Reported · the trades and amounts are from cathiesark.com , which tracks ARK's daily trade disclosures; ARK's own notice was not fetched",
+              "status": "reported",
+              "status_html": "<p>Reported · the trades and amounts are from <a href=\"https://cathiesark.com/ark-funds-combined/trades\" target=\"_blank\" rel=\"noopener noreferrer\">cathiesark.com</a>, which tracks ARK's daily trade disclosures; ARK's own notice was not fetched</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "cathiesark.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The stock closed at $16.27 on 11 November, down 0.61%, and was quoted at $15.87 before the open on 12 November.</strong>",
+              "html": "<p><strong>The stock closed at $16.27 on 11 November, down 0.61%, and was quoted at $15.87 before the open on 12 November.</strong> In the <a href=\"https://www.reddit.com/r/sofistock/comments/1xtc2lo/\" target=\"_blank\" rel=\"noopener noreferrer\">11 November chat</a> one member says it went &quot;Red on a bright green day and closed at the daily low after a mysterious bout of selling in the last 30 minutes with no news&quot;, and another that it was flat &quot;on a 2% Nasdaq day&quot;. The Nasdaq move was not checked.</p>",
+              "text": "The stock closed at $16.27 on 11 November, down 0.61%, and was quoted at $15.87 before the open on 12 November. In the 11 November chat one member says it went \"Red on a bright green day and closed at the daily low after a mysterious bout of selling in the last 30 minutes with no news\", and another that it was flat \"on a 2% Nasdaq day\". The Nasdaq move was not checked. Verified against stockanalysis.com's SOFI quote at 9:06 a.m. Eastern on 12 November",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's SOFI quote</a> at 9:06 a.m. Eastern on 12 November</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Talk of a 50-basis-point rate hike drove the 10 November drop, in members' telling.</strong>",
+              "html": "<p><strong>Talk of a 50-basis-point rate hike drove the 10 November drop, in members' telling.</strong> The <a href=\"https://www.reddit.com/r/sofistock/comments/1xsh806/\" target=\"_blank\" rel=\"noopener noreferrer\">10 November chat</a> opens with &quot;Sofi down premarket on a wet hike fears&quot; and &quot;Why are we confused? Rates planned to rise 50bps&quot;. One member says the guidance &quot;already included rate hikes for the rest of 2026 and more in 2027&quot;, so &quot;an extra 25 bps hike in 2026 should definitely already be priced in&quot;, and is disappointed Noto did not say so explicitly. On 11 November another asks &quot;Did Noto factor in 50 basis points hike in December or just 25 points?&quot; and gets the one-word reply &quot;75&quot;. None of these rate expectations was checked, and the Q3 release states no rate assumption (see the tracker).</p>",
+              "text": "Talk of a 50-basis-point rate hike drove the 10 November drop, in members' telling. The 10 November chat opens with \"Sofi down premarket on a wet hike fears\" and \"Why are we confused? Rates planned to rise 50bps\". One member says the guidance \"already included rate hikes for the rest of 2026 and more in 2027\", so \"an extra 25 bps hike in 2026 should definitely already be priced in\", and is disappointed Noto did not say so explicitly. On 11 November another asks \"Did Noto factor in 50 basis points hike in December or just 25 points?\" and gets the one-word reply \"75\". None of these rate expectations was checked, and the Q3 release states no rate assumption (see the tracker).",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The stock's failure to react to its own results is again the main complaint.</strong>",
+              "html": "<p><strong>The stock's failure to react to its own results is again the main complaint.</strong> &quot;So dumb. This stock reacts to everything but its own news&quot; topped the 11 November chat; on 12 November it is &quot;Everything has an impact in SOFI, except for stellar earnings&quot;. On 12 November one member argues &quot;If institutions don't step in, don't expect any share price growth&quot;, citing a Fintel screenshot that institutions are &quot;reducing shares count&quot;. The screenshot was not checked.</p>",
+              "text": "The stock's failure to react to its own results is again the main complaint. \"So dumb. This stock reacts to everything but its own news\" topped the 11 November chat; on 12 November it is \"Everything has an impact in SOFI, except for stellar earnings\". On 12 November one member argues \"If institutions don't step in, don't expect any share price growth\", citing a Fintel screenshot that institutions are \"reducing shares count\". The screenshot was not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The countdown comment reads &quot;76 days until Q4 earnings&quot; on 12 November.</strong>",
+              "html": "<p><strong>The countdown comment reads &quot;76 days until Q4 earnings&quot; on 12 November.</strong> SoFi has still not announced the date.</p>",
+              "text": "The countdown comment reads \"76 days until Q4 earnings\" on 12 November. SoFi has still not announced the date.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock (25 hot posts, 11 of them not daily or weekend chats; the ARK and SoFiUSD posts and the 10, 11 and 12 November chats were fetch…",
+              "html": "<p><strong>Read:</strong> sofistock (25 hot posts, 11 of them not daily or weekend chats; the ARK and SoFiUSD posts and the 10, 11 and 12 November chats were fetched; everything else was covered in earlier entries). <strong>Sources checked:</strong> SoFi's SEC filings, through the <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001818874&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR browse page</a>, which lists nothing after the 10-Q filed 5 November. EDGAR's submissions feed was again not fetched, because the command needed an approval this unattended run could not give. SoFi's investor news page again returned an empty &quot;Loading&quot; template. A web search and <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's news feed</a> found no SoFi press release or analyst action after 3 November.</p>",
+              "text": "Read: sofistock (25 hot posts, 11 of them not daily or weekend chats; the ARK and SoFiUSD posts and the 10, 11 and 12 November chats were fetched; everything else was covered in earlier entries). Sources checked: SoFi's SEC filings, through the EDGAR browse page , which lists nothing after the 10-Q filed 5 November. EDGAR's submissions feed was again not fetched, because the command needed an approval this unattended run could not give. SoFi's investor news page again returned an empty \"Loading\" template. A web search and stockanalysis.com's news feed found no SoFi press release or analyst action after 3 November.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none.</p>",
+              "text": "Announced, not discussed: none. Verified against EDGAR's filing index for SoFi",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001818874&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for SoFi</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "title": "SoFi stock digest",
