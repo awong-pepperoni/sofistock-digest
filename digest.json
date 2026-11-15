@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-15",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,162 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-15",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>A thin run. Hot held no new discussion posts, only the daily chat for 13 November and the weekend chat, and nothing was filed since the 10-Q on 5 November. The one piece of news is SoFiUSD going live on the Polygon blockchain on 12 November. A member posted the headline in that day's chat and nobody replied. Polygon Labs announced it, and no SoFi release was found. No story qualified for Must know: there are no results, filings or company announcements in the window, and the Polygon launch drew no attention on the sub.</p>",
+      "sections": [
+        {
+          "heading": "Company news and filings",
+          "category": "news",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>SoFiUSD went live on the Polygon blockchain on 12 November, according to Polygon Labs.</strong>",
+              "html": "<p><strong>SoFiUSD went live on the Polygon blockchain on 12 November, according to Polygon Labs.</strong> A member posted the headline &quot;SoFi Bank Expands SoFiUSD Stablecoin to Polygon for Faster Digital Dollar Payments&quot; in the <a href=\"https://www.reddit.com/r/sofistock/comments/1xu7182/\" target=\"_blank\" rel=\"noopener noreferrer\">12 November chat</a>, with no link and no replies. The Block reports a statement from Polygon Labs that SoFi's &quot;more than 17 million members&quot; can buy, sell, hold and convert SoFiUSD on Polygon through the SoFi app. It calls Polygon the newest network after Ethereum and Solana and does not mention Monad. Last run's Crypto Briefing article called Monad the third network, so the two reports conflict.</p>",
+              "text": "SoFiUSD went live on the Polygon blockchain on 12 November, according to Polygon Labs. A member posted the headline \"SoFi Bank Expands SoFiUSD Stablecoin to Polygon for Faster Digital Dollar Payments\" in the 12 November chat , with no link and no replies. The Block reports a statement from Polygon Labs that SoFi's \"more than 17 million members\" can buy, sell, hold and convert SoFiUSD on Polygon through the SoFi app. It calls Polygon the newest network after Ethereum and Solana and does not mention Monad. Last run's Crypto Briefing article called Monad the third network, so the two reports conflict. Reported · The Block , from a Polygon Labs statement; The Block quotes no one from SoFi; a web search found no SoFi press release on Polygon, and SoFi's investor news page did not load",
+              "status": "reported",
+              "status_html": "<p>Reported · <a href=\"https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542\" target=\"_blank\" rel=\"noopener noreferrer\">The Block</a>, from a Polygon Labs statement; The Block quotes no one from SoFi; a web search found no SoFi press release on Polygon, and SoFi's investor news page did not load</p>",
+              "updated": "2026-11-12",
+              "sources": [
+                "r/sofistock",
+                "theblock.co"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Fundamentals and valuation",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The stock closed at $15.42 on 13 November, down 1.34%, and was at $15.29 after hours.</strong>",
+              "html": "<p><strong>The stock closed at $15.42 on 13 November, down 1.34%, and was at $15.29 after hours.</strong> In the <a href=\"https://www.reddit.com/r/sofistock/comments/1xv22pe/\" target=\"_blank\" rel=\"noopener noreferrer\">13 November chat</a> one member wrote &quot;Soon 14&quot; and &quot;-16% since earnings&quot;. Another said &quot;PPI came out cooler than expected and we still red&quot;. A third compared SoFi, &quot;growing at 40% rate&quot;, at &quot;17x FWD PE&quot; with Chime (CHYM) at &quot;20x FWD PE&quot;. The PPI reading, the since-earnings figure and the multiples were not checked.</p>",
+              "text": "The stock closed at $15.42 on 13 November, down 1.34%, and was at $15.29 after hours. In the 13 November chat one member wrote \"Soon 14\" and \"-16% since earnings\". Another said \"PPI came out cooler than expected and we still red\". A third compared SoFi, \"growing at 40% rate\", at \"17x FWD PE\" with Chime (CHYM) at \"20x FWD PE\". The PPI reading, the since-earnings figure and the multiples were not checked. the close is Verified against stockanalysis.com's SOFI quote as of the 13 November close; the other figures are Single source, as posted",
+              "status": "verified",
+              "status_html": "<p>the close is <strong>Verified</strong> against <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's SOFI quote</a> as of the 13 November close; the other figures are Single source, as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The mood is resignation.</strong>",
+              "html": "<p><strong>The mood is resignation.</strong> The 13 November chat's top comment is &quot;I’m tired boss&quot;, followed by &quot;Imagine if we actually have a bad quarter lol&quot; and &quot;We are never seeing $16 again&quot;, answered with &quot;$15 is the new $5&quot;. On 12 November it was &quot;Nobody, following last earnings call, was expecting to fall again below 16.&quot; The usual claim of manipulation by market makers and shorts came up again (see the tracker).</p>",
+              "text": "The mood is resignation. The 13 November chat's top comment is \"I’m tired boss\", followed by \"Imagine if we actually have a bad quarter lol\" and \"We are never seeing $16 again\", answered with \"$15 is the new $5\". On 12 November it was \"Nobody, following last earnings call, was expecting to fall again below 16.\" The usual claim of manipulation by market makers and shorts came up again (see the tracker).",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Rate hikes are still the worry.</strong>",
+              "html": "<p><strong>Rate hikes are still the worry.</strong> On 13 November one member wrote &quot;when rates rise in december - we ll drop even more&quot;. In the weekend chat someone asked &quot;how we feeling with another rate hike ?&quot; and the reply was &quot;Priced in~!&quot; None of this was checked.</p>",
+              "text": "Rate hikes are still the worry. On 13 November one member wrote \"when rates rise in december - we ll drop even more\". In the weekend chat someone asked \"how we feeling with another rate hike ?\" and the reply was \"Priced in~!\" None of this was checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>One member suggests the Anthropic IPO is drawing retail money away from SoFi.</strong>",
+              "html": "<p><strong>One member suggests the Anthropic IPO is drawing retail money away from SoFi.</strong> &quot;Next week is Anthropic IPO&quot;, they wrote, and traders who trade SoFi for option premiums may be &quot;gathering money&quot; for it. That is one member's guess. News reports point to a Nasdaq listing in the second half of November, but Anthropic has not announced a date.</p>",
+              "text": "One member suggests the Anthropic IPO is drawing retail money away from SoFi. \"Next week is Anthropic IPO\", they wrote, and traders who trade SoFi for option premiums may be \"gathering money\" for it. That is one member's guess. News reports point to a Nasdaq listing in the second half of November, but Anthropic has not announced a date.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>One member says Noto confirmed SoFi &quot;won’t need to raise anymore capital from share dilution&quot;.</strong>",
+              "html": "<p><strong>One member says Noto confirmed SoFi &quot;won’t need to raise anymore capital from share dilution&quot;.</strong> The member gave no source, and the remark was not looked up.</p>",
+              "text": "One member says Noto confirmed SoFi \"won’t need to raise anymore capital from share dilution\". The member gave no source, and the remark was not looked up.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The countdown comment reads &quot;73 days until Q4 earnings&quot; on 15 November.</strong>",
+              "html": "<p><strong>The countdown comment reads &quot;73 days until Q4 earnings&quot; on 15 November.</strong> SoFi has still not announced the date.</p>",
+              "text": "The countdown comment reads \"73 days until Q4 earnings\" on 15 November. SoFi has still not announced the date.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock (25 hot posts; the 12 and 13 November daily chats and the 14–15 November weekend chat were fetched; everything else was covered…",
+              "html": "<p><strong>Read:</strong> sofistock (25 hot posts; the 12 and 13 November daily chats and the 14–15 November weekend chat were fetched; everything else was covered in earlier entries). <strong>Sources checked:</strong> SoFi's SEC filings, through the <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001818874&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR browse page</a>, which lists nothing after the 10-Q filed 5 November. EDGAR's submissions feed was again not fetched, because the command needed an approval this unattended run could not give. SoFi's investor news page again returned an empty &quot;Loading&quot; template. A web search and <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's news feed</a> were used in its place.</p>",
+              "text": "Read: sofistock (25 hot posts; the 12 and 13 November daily chats and the 14–15 November weekend chat were fetched; everything else was covered in earlier entries). Sources checked: SoFi's SEC filings, through the EDGAR browse page , which lists nothing after the 10-Q filed 5 November. EDGAR's submissions feed was again not fetched, because the command needed an approval this unattended run could not give. SoFi's investor news page again returned an empty \"Loading\" template. A web search and stockanalysis.com's news feed were used in its place.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> a routine monthly distribution notice for the SoFi Social 50 Income ETF (SFYI), listed on stockanalysis.com for 12 or 13 November.",
+              "html": "<p><strong>Announced, not discussed:</strong> a routine monthly distribution notice for the SoFi Social 50 Income ETF (SFYI), listed on <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com</a> for 12 or 13 November. It is a fund payout, not a company event, and its amount was not checked.</p>",
+              "text": "Announced, not discussed: a routine monthly distribution notice for the SoFi Social 50 Income ETF (SFYI), listed on stockanalysis.com for 12 or 13 November. It is a fund payout, not a company event, and its amount was not checked. Reported · the headline only, from stockanalysis.com's news feed",
+              "status": "reported",
+              "status_html": "<p>Reported · the headline only, from stockanalysis.com's news feed</p>",
+              "updated": null,
+              "sources": [
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "title": "SoFi stock digest",
@@ -2186,6 +2342,20 @@
           "updated": "2026-10-08",
           "sources": [
             "Business Wire"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>SoFiUSD, SoFi Bank's stablecoin, has spread from Ethereum and Solana to Monad and Polygon, but the reports disagree on the order.</strong>",
+          "html": "<p><strong>SoFiUSD, SoFi Bank's stablecoin, has spread from Ethereum and Solana to Monad and Polygon, but the reports disagree on the order.</strong> A Crypto Briefing article dated 11 November 2026 dates the Monad expansion to August 2026, with BitGo as infrastructure, and calls Monad the third network. The Block reports a Polygon Labs statement that SoFiUSD went live on Polygon on 12 November 2026 as the newest network after Ethereum and Solana, and does not mention Monad. SoFi's last release on the token (May 2026) names only Ethereum and Solana, with &quot;additional networks being added&quot;. No SoFi release names either new network. Check SoFi's Q4 crypto disclosure for an official list.</p>",
+          "text": "SoFiUSD, SoFi Bank's stablecoin, has spread from Ethereum and Solana to Monad and Polygon, but the reports disagree on the order. A Crypto Briefing article dated 11 November 2026 dates the Monad expansion to August 2026, with BitGo as infrastructure, and calls Monad the third network. The Block reports a Polygon Labs statement that SoFiUSD went live on Polygon on 12 November 2026 as the newest network after Ethereum and Solana, and does not mention Monad. SoFi's last release on the token (May 2026) names only Ethereum and Solana, with \"additional networks being added\". No SoFi release names either new network. Check SoFi's Q4 crypto disclosure for an official list. Reported · Crypto Briefing and The Block ; not confirmed by SoFi · 2026-11-15",
+          "status": "reported",
+          "status_html": "<p>Reported · <a href=\"https://cryptobriefing.com/bitgo-sofi-usd-stablecoin-monad/\" target=\"_blank\" rel=\"noopener noreferrer\">Crypto Briefing</a> and <a href=\"https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542\" target=\"_blank\" rel=\"noopener noreferrer\">The Block</a>; not confirmed by SoFi · 2026-11-15</p>",
+          "updated": "2026-11-15",
+          "sources": [
+            "cryptobriefing.com",
+            "theblock.co"
           ],
           "due": null,
           "due_label": null
