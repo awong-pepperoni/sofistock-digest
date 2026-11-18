@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-18",
   "meta": {
     "feed": "sofistock",
     "title": "SoFi Stock Digest",
@@ -20,6 +20,163 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-18",
+      "title": "SoFi stock digest",
+      "intro_html": "<p>The stock fell to $14.28 on 17 November, and the chats were about little else. The one new discussion post asks whether CEO Anthony Noto's &quot;buying all year&quot; is a signal. His Form 4 record shows five open-market purchases in 2026, the last on 16 June, so &quot;keeps buying&quot; overstates it. The three Form 4s filed on 17 November are routine vesting of restricted stock units (RSUs), not trades. No story qualified for Must know: no results, guidance or company announcements came out in the window, and the one filing is routine.</p>",
+      "sections": [
+        {
+          "heading": "Fundamentals and valuation",
+          "category": "valuation",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A post asks whether Noto's buying outweighs the Muddy Waters short thesis, but Noto has not bought in the open market since June.</strong>",
+              "html": "<p><strong>A post asks whether Noto's buying outweighs the Muddy Waters short thesis, but Noto has not bought in the open market since June.</strong> <a href=\"https://www.reddit.com/r/sofistock/comments/1xwymye/\" target=\"_blank\" rel=\"noopener noreferrer\">The post</a>, at 96 points and 109 comments, says the stock is down &quot;~53% from its $32.73 high earlier this year&quot; and that Noto &quot;keeps buying more&quot;. Its author discloses running &quot;a stock-picking show called The Portfolio League&quot; that had just picked SOFI. A mod comment replies that Noto &quot;has not purchased shares directly since June 2026&quot;, and another member says &quot;he bought some in may. But hasn't done so again since then.&quot; His EDGAR record backs the mod. It lists open-market purchases of 56,000 shares on 2 March, 28,900 on 17 March, 15,878 on 8 May, 15,545 on 11 May and 13,888 on 16 June. Since then the only entries are RSU vesting and shares withheld for tax on 14 September. One commenter adds that Noto &quot;takes stock-backed loans&quot;, which was not checked. The $32.73 high was not checked either.</p>",
+              "text": "A post asks whether Noto's buying outweighs the Muddy Waters short thesis, but Noto has not bought in the open market since June. The post , at 96 points and 109 comments, says the stock is down \"~53% from its $32.73 high earlier this year\" and that Noto \"keeps buying more\". Its author discloses running \"a stock-picking show called The Portfolio League\" that had just picked SOFI. A mod comment replies that Noto \"has not purchased shares directly since June 2026\", and another member says \"he bought some in may. But hasn't done so again since then.\" His EDGAR record backs the mod. It lists open-market purchases of 56,000 shares on 2 March, 28,900 on 17 March, 15,878 on 8 May, 15,545 on 11 May and 13,888 on 16 June. Since then the only entries are RSU vesting and shares withheld for tax on 14 September. One commenter adds that Noto \"takes stock-backed loans\", which was not checked. The $32.73 high was not checked either. the purchase record is Verified against Noto's EDGAR insider transaction page ; the high and the loan claim are Single source, as posted",
+              "status": "verified",
+              "status_html": "<p>the purchase record is <strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/own-disp?action=getowner&amp;CIK=0001613438\" target=\"_blank\" rel=\"noopener noreferrer\">Noto's EDGAR insider transaction page</a>; the high and the loan claim are Single source, as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The sub dismissed the Muddy Waters short thesis, and the most-argued reply calls its loss-rate claim misleading.</strong>",
+              "html": "<p><strong>The sub dismissed the Muddy Waters short thesis, and the most-argued reply calls its loss-rate claim misleading.</strong> The thesis is a report Muddy Waters published on 17 March 2026, according to secondary coverage. It alleges understated charge-offs and off-balance-sheet debt, and SoFi called it inaccurate. In the thread one member asks &quot;Who in the world is still talking about Muddy Waters?&quot; A longer reply argues that Muddy Waters' &quot;real&quot; loss rate assumes &quot;100% loss on every delinquent loan sold&quot;, and that the loan platform accounting is standard for a referral business. The same member cites &quot;a forward P/E in the teens, 40%+ revenue and net income growth y/y, and 35% member growth y/y&quot;. None of those figures was checked, and neither was the commenter's account of a Muddy Waters interview.</p>",
+              "text": "The sub dismissed the Muddy Waters short thesis, and the most-argued reply calls its loss-rate claim misleading. The thesis is a report Muddy Waters published on 17 March 2026, according to secondary coverage. It alleges understated charge-offs and off-balance-sheet debt, and SoFi called it inaccurate. In the thread one member asks \"Who in the world is still talking about Muddy Waters?\" A longer reply argues that Muddy Waters' \"real\" loss rate assumes \"100% loss on every delinquent loan sold\", and that the loan platform accounting is standard for a referral business. The same member cites \"a forward P/E in the teens, 40%+ revenue and net income growth y/y, and 35% member growth y/y\". None of those figures was checked, and neither was the commenter's account of a Muddy Waters interview. Reported · the report and SoFi's response are from secondary coverage ( Motley Fool , Seeking Alpha ); the Muddy Waters report itself was not read",
+              "status": "reported",
+              "status_html": "<p>Reported · the report and SoFi's response are from secondary coverage (<a href=\"https://www.fool.com/investing/2026/03/24/sofi-the-short-thesis/\" target=\"_blank\" rel=\"noopener noreferrer\">Motley Fool</a>, <a href=\"https://seekingalpha.com/news/4565743-sofi-calls-short-report-inaccurate-explores-legal-action\" target=\"_blank\" rel=\"noopener noreferrer\">Seeking Alpha</a>); the Muddy Waters report itself was not read</p>",
+              "updated": null,
+              "sources": [
+                "fool.com",
+                "seekingalpha.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The stock closed at $14.28 on 17 November, down 3.84%, and was quoted at $14.41 before the open on 18 November.</strong>",
+              "html": "<p><strong>The stock closed at $14.28 on 17 November, down 3.84%, and was quoted at $14.41 before the open on 18 November.</strong> It had closed at $14.85 the day before. On 17 November one member wrote &quot;-20% in 2 weeks is wild&quot;, another &quot;All post earnings gains are lost&quot;, and a third &quot;now AI stocks are pumping and SOFI is still 14.30&quot;. The two-week figure was not checked.</p>",
+              "text": "The stock closed at $14.28 on 17 November, down 3.84%, and was quoted at $14.41 before the open on 18 November. It had closed at $14.85 the day before. On 17 November one member wrote \"-20% in 2 weeks is wild\", another \"All post earnings gains are lost\", and a third \"now AI stocks are pumping and SOFI is still 14.30\". The two-week figure was not checked. the closes are Verified against stockanalysis.com's SOFI quote at 9:05 a.m. Eastern on 18 November; the other figures are Single source, as posted",
+              "status": "verified",
+              "status_html": "<p>the closes are <strong>Verified</strong> against <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's SOFI quote</a> at 9:05 a.m. Eastern on 18 November; the other figures are Single source, as posted</p>",
+              "updated": null,
+              "sources": [
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The mood has moved from resignation toward despair.</strong>",
+              "html": "<p><strong>The mood has moved from resignation toward despair.</strong> On 16 November the top serious comment is &quot;Rates up, SOFI down. Rates down, SOFI down. … Always down for each and every reason&quot;, answered by &quot;It's a high beta stock. Only on the way down&quot;. In the <a href=\"https://www.reddit.com/r/sofistock/comments/1xyepf0/\" target=\"_blank\" rel=\"noopener noreferrer\">17 November chat</a> it is &quot;5 years of owning and at 0 gain&quot;, &quot;no hope short term&quot;, and a nightmare &quot;that Sofi dropped below 10&quot;. The long-term case still gets the most upvotes: &quot;Gotta hold for long term … Ultimately the fundamentals will win.&quot;</p>",
+              "text": "The mood has moved from resignation toward despair. On 16 November the top serious comment is \"Rates up, SOFI down. Rates down, SOFI down. … Always down for each and every reason\", answered by \"It's a high beta stock. Only on the way down\". In the 17 November chat it is \"5 years of owning and at 0 gain\", \"no hope short term\", and a nightmare \"that Sofi dropped below 10\". The long-term case still gets the most upvotes: \"Gotta hold for long term … Ultimately the fundamentals will win.\"",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Rate hikes are still the worry, and a member says Fed governor Christopher Waller &quot;wants a 50bp hike&quot;.</strong>",
+              "html": "<p><strong>Rate hikes are still the worry, and a member says Fed governor Christopher Waller &quot;wants a 50bp hike&quot;.</strong> That overstates what he said. On 10 November Waller backed a quarter-point hike in December and said a half-point move should be considered if core inflation runs hot. One member hopes for &quot;some wins from big business banking and stablecoin customers in the beginning of the year&quot; and &quot;any possible news of rate cuts&quot;.</p>",
+              "text": "Rate hikes are still the worry, and a member says Fed governor Christopher Waller \"wants a 50bp hike\". That overstates what he said. On 10 November Waller backed a quarter-point hike in December and said a half-point move should be considered if core inflation runs hot. One member hopes for \"some wins from big business banking and stablecoin customers in the beginning of the year\" and \"any possible news of rate cuts\". Reported · Waller's remarks are from stockanalysis.com and Sovereign Magazine ; the speech itself was not read",
+              "status": "reported",
+              "status_html": "<p>Reported · Waller's remarks are from <a href=\"https://stockanalysis.com/news/fed-waller-december-rate-hike-half-point/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com</a> and <a href=\"https://www.sovereignmagazine.com/article/fed-waller-december-rate-hike-half-point\" target=\"_blank\" rel=\"noopener noreferrer\">Sovereign Magazine</a>; the speech itself was not read</p>",
+              "updated": null,
+              "sources": [
+                "stockanalysis.com",
+                "sovereignmagazine.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The countdown comment reads &quot;70 days until Q4 earnings&quot; on 18 November.</strong>",
+              "html": "<p><strong>The countdown comment reads &quot;70 days until Q4 earnings&quot; on 18 November.</strong> SoFi has still not announced the date.</p>",
+              "text": "The countdown comment reads \"70 days until Q4 earnings\" on 18 November. SoFi has still not announced the date.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> sofistock (22 hot posts; the CEO-buying thread, the image post &quot;This Is Why I laugh When someone Says &#x27;The big banks are better&#x27;&quot; and the…",
+              "html": "<p><strong>Read:</strong> sofistock (22 hot posts; the CEO-buying thread, the image post <a href=\"https://www.reddit.com/r/sofistock/comments/1xy2utg/\" target=\"_blank\" rel=\"noopener noreferrer\">&quot;This Is Why I laugh When someone Says 'The big banks are better'&quot;</a> and the 16, 17 and 18 November chats were fetched; the image post was skipped because its one comment does not say what the image shows, and everything else was covered in earlier entries). <strong>Sources checked:</strong> SoFi's SEC filings, through the <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001818874&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR browse page</a>. It lists three Form 4s and two Form 144s filed 17 November and nothing else since the 10-Q of 5 November. EDGAR's atom feed was not fetched with curl, because the command needed an approval this unattended run could not give, so WebFetch was used instead. SoFi's investor news page again returned an empty &quot;Loading&quot; template. A web search and <a href=\"https://stockanalysis.com/stocks/sofi/\" target=\"_blank\" rel=\"noopener noreferrer\">stockanalysis.com's news feed</a> were used in its place.</p>",
+              "text": "Read: sofistock (22 hot posts; the CEO-buying thread, the image post \"This Is Why I laugh When someone Says 'The big banks are better'\" and the 16, 17 and 18 November chats were fetched; the image post was skipped because its one comment does not say what the image shows, and everything else was covered in earlier entries). Sources checked: SoFi's SEC filings, through the EDGAR browse page . It lists three Form 4s and two Form 144s filed 17 November and nothing else since the 10-Q of 5 November. EDGAR's atom feed was not fetched with curl, because the command needed an approval this unattended run could not give, so WebFetch was used instead. SoFi's investor news page again returned an empty \"Loading\" template. A web search and stockanalysis.com's news feed were used in its place.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/sofistock",
+                "SEC filing",
+                "stockanalysis.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> the three Form 4s filed 17 November.",
+              "html": "<p><strong>Announced, not discussed:</strong> the three Form 4s filed 17 November. Each reports RSUs settling on 14 November: 1,323 shares for director John Hele, 45,389 for Chief Risk Officer Arun Pinto and 55,731 for EVP Eric Schuppenhauer. None is an open-market trade. The two Form 144s filed the same day are notices of proposed sales; who filed them and how many shares they cover were not checked. (<a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000146083526000006/\" target=\"_blank\" rel=\"noopener noreferrer\">Hele</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000201213526000025/\" target=\"_blank\" rel=\"noopener noreferrer\">Pinto</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/1818874/000203485726000016/\" target=\"_blank\" rel=\"noopener noreferrer\">Schuppenhauer</a>)</p>",
+              "text": "Announced, not discussed: the three Form 4s filed 17 November. Each reports RSUs settling on 14 November: 1,323 shares for director John Hele, 45,389 for Chief Risk Officer Arun Pinto and 55,731 for EVP Eric Schuppenhauer. None is an open-market trade. The two Form 144s filed the same day are notices of proposed sales; who filed them and how many shares they cover were not checked. ( Hele , Pinto , Schuppenhauer ) Verified against the Form 4 filings on EDGAR; the Form 144s are listed only",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Form 4 filings on EDGAR; the Form 144s are listed only</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Also set aside:</strong> a stockanalysis.com headline from about 17 November, &quot;Bullish, Equiniti add four firms to group developing issuer token standards&quot;, is li…",
+              "html": "<p><strong>Also set aside:</strong> a stockanalysis.com headline from about 17 November, &quot;Bullish, Equiniti add four firms to group developing issuer token standards&quot;, is listed on SoFi's page. A web search found no source that ties SoFi to the coalition, so it was not written up.</p>",
+              "text": "Also set aside: a stockanalysis.com headline from about 17 November, \"Bullish, Equiniti add four firms to group developing issuer token standards\", is listed on SoFi's page. A web search found no source that ties SoFi to the coalition, so it was not written up.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms this run.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms this run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "title": "SoFi stock digest",
@@ -2449,6 +2606,19 @@
           "status_html": "<p>Reported from several commenters across runs; neither the Q2 nor the Q3 2026 release states such a policy · 2026-10-29</p>",
           "updated": "2026-10-29",
           "sources": [],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>&quot;Noto keeps buying.&quot;</strong> The sub, and outside posters, cite CEO Anthony Noto&#x27;s purchases as a vote of confidence.",
+          "html": "<p><strong>&quot;Noto keeps buying.&quot;</strong> The sub, and outside posters, cite CEO Anthony Noto's purchases as a vote of confidence. His 2026 open-market purchases were 56,000 shares on 2 March, 28,900 on 17 March, 15,878 on 8 May, 15,545 on 11 May and 13,888 on 16 June. Since then his Form 4s show only RSU vesting and shares withheld for tax, as of 18 November 2026. Recheck his record whenever the claim comes up.</p>",
+          "text": "\"Noto keeps buying.\" The sub, and outside posters, cite CEO Anthony Noto's purchases as a vote of confidence. His 2026 open-market purchases were 56,000 shares on 2 March, 28,900 on 17 March, 15,878 on 8 May, 15,545 on 11 May and 13,888 on 16 June. Since then his Form 4s show only RSU vesting and shares withheld for tax, as of 18 November 2026. Recheck his record whenever the claim comes up. Verified against Noto's EDGAR insider transaction page · 2026-11-18",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/own-disp?action=getowner&amp;CIK=0001613438\" target=\"_blank\" rel=\"noopener noreferrer\">Noto's EDGAR insider transaction page</a> · 2026-11-18</p>",
+          "updated": "2026-11-18",
+          "sources": [
+            "SEC filing"
+          ],
           "due": null,
           "due_label": null
         },
